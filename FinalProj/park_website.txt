@@ -1,0 +1,2634 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+<script type="text/javascript"> if(!gform){document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}} </script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>10 of the best Seattle-area parks for kids | Seattle&#039;s Child</title>
+	<meta name="description" content="Whether you&#039;re planning a nature walk, a beach walk or just looking for a new playground, here are the best Seattle parks for kids." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="10 of the best Seattle-area parks for kids | Seattle&#039;s Child" />
+	<meta property="og:description" content="Whether you&#039;re planning a nature walk, a beach walk or just looking for a new playground, here are the best Seattle parks for kids." />
+	<meta property="og:url" content="https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/" />
+	<meta property="og:site_name" content="Seattle&#039;s Child" />
+	<meta property="article:publisher" content="https://www.facebook.com/SeattlesChild/" />
+	<meta property="article:published_time" content="2021-07-19T16:00:00+00:00" />
+	<meta property="article:modified_time" content="2021-07-25T23:29:21+00:00" />
+	<meta property="og:image" content="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/04/DiscoveryPark-family-biking-e1619120751425.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="800" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@SeaChildMag" />
+	<meta name="twitter:site" content="@SeaChildMag" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="4 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://seattleschild.webpublisherpro.com/#organization","name":"Seattle's Child | Activities and More for Seattle Families with Kids","url":"http://seattleschild.webpublisherpro.com/","sameAs":["https://www.facebook.com/SeattlesChild/","https://www.instagram.com/seattleschildmag/","https://www.pinterest.com/seattleschild/","https://twitter.com/SeaChildMag"],"logo":{"@type":"ImageObject","@id":"http://seattleschild.webpublisherpro.com/#logo","inLanguage":"en-US","url":"https://www.seattleschild.com/wp-content/uploads/2020/05/seattles-logo-1.svg","width":455,"height":64,"caption":"Seattle's Child | Activities and More for Seattle Families with Kids"},"image":{"@id":"http://seattleschild.webpublisherpro.com/#logo"}},{"@type":"WebSite","@id":"http://seattleschild.webpublisherpro.com/#website","url":"http://seattleschild.webpublisherpro.com/","name":"Seattle&#039;s Child","description":"Activities and More for Seattle Families with Kids","publisher":{"@id":"http://seattleschild.webpublisherpro.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"http://seattleschild.webpublisherpro.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#primaryimage","inLanguage":"en-US","url":"https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/04/DiscoveryPark-family-biking-e1619120751425.jpg","width":1200,"height":800,"caption":"Discovery Park has trails, beaches and an Environmental Learning Center. (Photo by Discovery Park staff)"},{"@type":"WebPage","@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#webpage","url":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/","name":"10 of the best Seattle-area parks for kids | Seattle&#039;s Child","isPartOf":{"@id":"http://seattleschild.webpublisherpro.com/#website"},"primaryImageOfPage":{"@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#primaryimage"},"datePublished":"2021-07-19T16:00:00+00:00","dateModified":"2021-07-25T23:29:21+00:00","description":"Whether you're planning a nature walk, a beach walk or just looking for a new playground, here are the best Seattle parks for kids.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/"]}]},{"@type":"Article","@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#article","isPartOf":{"@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#webpage"},"author":{"@id":"http://seattleschild.webpublisherpro.com/#/schema/person/7de6384316ea4dba97b218be2a84f3ce"},"headline":"10 of the best Seattle-area parks for kids","datePublished":"2021-07-19T16:00:00+00:00","dateModified":"2021-07-25T23:29:21+00:00","mainEntityOfPage":{"@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#webpage"},"publisher":{"@id":"http://seattleschild.webpublisherpro.com/#organization"},"image":{"@id":"https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/#primaryimage"},"keywords":"discovery park,green lake,parks,playground,Seattle parks,Seward park,Volunteer park","articleSection":"Outdoor Fun,Parks &amp; Beaches,Things to Do","inLanguage":"en-US"},{"@type":"Person","@id":"http://seattleschild.webpublisherpro.com/#/schema/person/7de6384316ea4dba97b218be2a84f3ce","name":"","image":{"@type":"ImageObject","@id":"http://seattleschild.webpublisherpro.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/2de91cbaa1d5df2b9abed7c0565e529a?s=96&d=mm&r=g"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.broadstreetads.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" type="application/rss+xml" title="Seattle&#039;s Child &raquo; Feed" href="https://www.seattleschild.com/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.seattleschild.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mpp_gutenberg-css'  href='https://www.seattleschild.com/wp-content/plugins/metronet-profile-picture/dist/blocks.style.build.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fullcalendar-css'  href='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/js/vendor/fullcalendar/fullcalendar.min.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='date-timepicker-css'  href='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/js/vendor/date-time-picker/date-time-picker.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='event-calendar-pro-css'  href='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/css/frontend.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://www.seattleschild.com/wp-includes/css/buttons.min.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.seattleschild.com/wp-includes/css/dashicons.min.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.seattleschild.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.seattleschild.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='media-views-css'  href='https://www.seattleschild.com/wp-includes/css/media-views.min.css?ver=5.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='imgareaselect-css'  href='https://www.seattleschild.com/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='everstrap-styles-css'  href='https://www.seattleschild.com/wp-content/themes/seattles-child/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_reset_css-css'  href='https://www.seattleschild.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://www.seattleschild.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://www.seattleschild.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://www.seattleschild.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//www.seattleschild.com/wp-content/uploads/pum/pum-site-styles.css?generated=1625718465&#038;ver=1.16.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' data-cfasync='false' src='//cdn.broadstreetads.com/init-2.min.js?ver=5.5.5' id='broadstreet-cdn-js'></script>
+<script type='text/javascript' id='utils-js-extra'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1628018115","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/utils.min.js?ver=5.5.5' id='utils-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/plupload/moxie.min.js?ver=1.3.5' id='moxiejs-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/plupload/plupload.min.js?ver=2.1.9' id='plupload-js'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/json2.min.js?ver=2015-05-03' id='json2-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBu0TrYlDyF4fEwjGhjow6vNOSwAbbzuWk&#038;ver=5.5.5' id='dfw-google-map-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.seattleschild.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.5.8' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.seattleschild.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.seattleschild.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_legacy_multi = {"4":"1"};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.seattleschild.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.seattleschild.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_legacy_multi = {"4":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://www.seattleschild.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.5.8' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.google.com/recaptcha/api.js?hl=en&#038;ver=5.5.5#038;render=explicit' id='gform_recaptcha-js'></script>
+<link rel="https://api.w.org/" href="https://www.seattleschild.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.seattleschild.com/wp-json/wp/v2/posts/5293" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.seattleschild.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.seattleschild.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.5" />
+<link rel='shortlink' href='https://www.seattleschild.com/?p=5293' />
+<link rel="alternate" type="application/json+oembed" href="https://www.seattleschild.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seattleschild.com%2F10-of-the-best-seattle-area-parks-for-kids%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.seattleschild.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seattleschild.com%2F10-of-the-best-seattle-area-parks-for-kids%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-46620204-37', 'auto');
+			ga('require', 'linkid');
+			ga('send', 'pageview');
+		</script>
+
+	<meta name="generator" content="Site Kit by Google 1.37.0" /><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/134510212/seattleschild_popup', [[400, 400], [640, 480], [300, 500], [500, 500], [300, 250], [800, 800]], 'div-gpt-ad-1602786865067-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/134510212/seattleschild_300x250_4', [[300, 250], [300, 600]], 'div-gpt-ad-1602794812544-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/134510212/seattleschild_300x250_5', [[300, 250], [300, 600]], 'div-gpt-ad-1602795044483-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/134510212/seattleschild_300x600_1', [300, 600], 'div-gpt-ad-1602795298305-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/134510212/seattleschild_300x600_2', [300, 600], 'div-gpt-ad-1602795298306-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Seattle&#039;s Child - Activities and More for Seattle Families with Kids">
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<!-- Leaderboard Ad #1-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+	var mapping = googletag.sizeMapping().
+		addSize([768, 300], [[728, 90]]).
+		addSize([0,0], [300, 250]).
+		build();
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+    googletag.defineSlot('/134510212/seattleschild_728x90_Top', [[728, 90], [300, 250]], 'div-gpt-ad-1591054082913-0').defineSizeMapping(mapping).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!-- Leaderboard Ad #2-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+	var mapping = googletag.sizeMapping().
+		addSize([768, 300], [[728, 90]]).
+		addSize([0,0], [300, 250]).
+		build();
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+    googletag.defineSlot('/134510212/seattleschild_728x90_Bottom', [[728, 90], [300, 250]], 'div-gpt-ad-1591112804579-0').defineSizeMapping(mapping).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!-- Leaderboard Ad #2-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+	var mapping = googletag.sizeMapping().
+		addSize([768, 300], [[728, 90]]).
+		addSize([0,0], [300, 250]).
+		build();
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+    googletag.defineSlot('/134510212/seattleschild_728x90_Top', [[728, 90], [300, 250]], 'div-gpt-ad-15910540829132-0').defineSizeMapping(mapping).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- Leaderboard Ad #3-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+	var mapping = googletag.sizeMapping().
+		addSize([768, 300], [[728, 90]]).
+		addSize([0,0], [300, 250]).
+		build();
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+    googletag.defineSlot('/134510212/seattleschild_728x90_Bottom', [[728, 90], [300, 250]], 'div-gpt-ad-15911128045792-0').defineSizeMapping(mapping).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- Issue Archive Leaderboard-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+	var mapping = googletag.sizeMapping().
+		addSize([1000, 300], [[970, 250]]).
+		addSize([768, 300], [[728, 90]]).
+		addSize([0,0], [300, 250]).
+		build();
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+    googletag.defineSlot('/134510212/seattleschild_970x250_Issue_Archive', [[970, 250], [728, 90], [300, 250]], 'div-gpt-ad-1605297923460-0').defineSizeMapping(mapping).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- Issue Archive Box-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+	var mapping = googletag.sizeMapping().
+		addSize([768, 300], [[728, 90]]).
+		addSize([0,0], [300, 250]).
+		build();
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+    googletag.defineSlot('/134510212/seattleschild_300x250_Issue_Archive', [[728, 90], [300, 250]], 'div-gpt-ad-1605298666018-0').defineSizeMapping(mapping).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- Sidebar Ad #1-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+	googletag.defineSlot('/134510212/seattleschild_300x250_1', [[300, 600], [300, 250]], 'div-gpt-ad-1591112404579-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- Sidebar Ad #2-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+	googletag.defineSlot('/134510212/seattleschild_300x250_2', [[300, 600], [300, 250]], 'div-gpt-ad-1591112566921-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- Sidebar Ad #3-->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting("page", '10-of-the-best-seattle-area-parks-for-kids');
+
+			googletag.pubads().setTargeting("post_id", "5293");
+	
+	5293
+		googletag.pubads().setTargeting("category", ['Outdoor Fun', 'outdoor-fun']);
+	
+	googletag.defineSlot('/134510212/seattleschild_300x250_3', [[300, 250], [300, 600]], 'div-gpt-ad-1591112659950-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<meta name="google-site-verification" content="g3AN9pRRseSMlYQTQ8rYZM2XisGuTv_80Bj20VSacUw"><link rel="icon" href="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/seattle-icon.svg" sizes="32x32" />
+<link rel="icon" href="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/seattle-icon.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/seattle-icon.svg" />
+<meta name="msapplication-TileImage" content="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/seattle-icon.svg" />
+		<style type="text/css" id="wp-custom-css">
+			@media only screen and ( max-width: 767px ){
+	#popmake-14254 .popup-description {
+		font-size: 18px;
+		line-height: 20px;
+		font-weight: 700;
+	}
+}
+
+html.pum-open.pum-open-overlay, html.pum-open.pum-open-overlay.pum-open-fixed .pum-overlay {
+    overflow: inherit !important;
+}
+
+/* Only in Safari */
+@media screen and (-webkit-min-device-pixel-ratio:0) and ( min-width: 900px ){
+	.header-navbar-area > ul > li > a{
+		font-size: 19px !important;
+	}
+}
+#div-gpt-ad-1605297923460-0 {
+	margin-bottom:80px;
+}
+#div-gpt-ad-1605298666018-0 {
+	margin-top:40px;
+}
+.single .site-right-sidebar aside:last-child {
+    position:sticky;
+    top:90px;
+}
+/* .site {
+    overflow:inherit !important;
+} */
+
+.aligncenter {
+    display: block;
+}
+
+.single-wrapper .single-content-area .entry-content .wp-caption {
+    width: 100% !important;
+}
+
+#secondary img, article img, figure, img, img.wp-post-image {
+  height: auto !important;
+}		</style>
+		</head>
+
+<body class="post-template-default single single-post postid-5293 single-format-standard wp-custom-logo wp-embed-responsive group-blog">
+<!-- Search Drawer Start -->
+<div class="search-drawer d-print-none" id="search-drawer">
+	<div class="container">
+		<div class="search-drawer-inner">
+			<div class="sidebar-header">
+				<button type="button" class="close-search-form"></button>
+			</div>
+			<div class="nav-drawer-logo">
+				<a href="https://www.seattleschild.com/" class="navbar-brand custom-logo-link" rel="home"><img width="455" height="64" src="https://www.seattleschild.com/wp-content/uploads/2020/05/seattles-logo.svg" class="img-fluid" alt="Seattle&#039;s Child" /></a>			</div>
+			<div class="search-form-area">
+	<form method="get" id="searchform" action="https://www.seattleschild.com/" role="search" class="es-search-form">
+		<label class="sr-only" for="s">Search</label>
+		<button class="search-inner-icon"><i class="fa fa-search"></i></button>
+		<input class="search" id="s" name="s" type="search"
+			placeholder="Search &hellip;" value="">
+		<button type="submit" class="search-inner-btn">Go</button>
+	</form>
+</div>
+
+		</div>
+	</div>
+</div>
+<!-- Search Drawer End -->
+<div class="site" id="page">
+	<!--.nav-drawer-->
+	<div id="nav-drawer" class="nav-drawer d-print-none">
+	<div class="nav-drawer-inner text-center">
+		<div class="nav-drawer-header">
+			<button type="button" class="nav-drawer-close"></button>
+		</div>
+		<div class="nav-drawer-logo esb-buttom">
+			<a href="https://www.seattleschild.com/" class="navbar-brand custom-logo-link" rel="home"><img width="455" height="64" src="https://www.seattleschild.com/wp-content/uploads/2020/05/seattles-logo.svg" class="img-fluid" alt="Seattle&#039;s Child" /></a>		</div>
+		<div class="nav-drawer-menu primary esb-buttom">
+			<div class="menu-main-menu-container"><ul id="mobile-menu" class="navmenu-list-item sidebar-header-menu"><li id="menu-item-14117" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14117"><a href="https://www.seattleschild.com/category/things-to-do/">Things to Do <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-21257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21257"><a href="https://www.seattleschild.com/calendar/">Events Calendar</a></li>
+	<li id="menu-item-14149" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14149"><a href="https://www.seattleschild.com/category/things-to-do/outdoor-fun/">Outdoor Fun</a></li>
+	<li id="menu-item-14152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14152"><a href="https://www.seattleschild.com/category/things-to-do/travel/">Travel</a></li>
+	<li id="menu-item-15745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15745"><a href="https://www.seattleschild.com/category/things-to-do/eat/eating-out-with-kids/">Eating out With Kids</a></li>
+	<li id="menu-item-17950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950"><a href="https://www.seattleschild.com/download-seattles-child-app/">Download Seattle&#8217;s Child App</a></li>
+</ul>
+</li>
+<li id="menu-item-23875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23875"><a href="https://www.seattleschild.com/directories/?category=summer-camps-and-classes-near-seattle">Camps <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-27458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27458"><a href="https://www.seattleschild.com/camps/?category=summer-camps-and-classes-near-seattle&#038;sub-category=&#038;zipcode=&#038;keyword=">Summer Camps</a></li>
+</ul>
+</li>
+<li id="menu-item-14311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14311"><a href="https://www.seattleschild.com/directories/">Directories <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-23299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23299"><a href="https://www.seattleschild.com/directories/?category=preschools-childcare&#038;sub-category=&#038;zipcode=&#038;keyword=">Preschools &#038; Child Care</a></li>
+	<li id="menu-item-23301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23301"><a href="https://www.seattleschild.com/directories/?category=education-schools-learning-support&#038;sub-category=&#038;zipcode=&#038;keyword=">Schools K &#8211; 12</a></li>
+	<li id="menu-item-23296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23296"><a href="https://www.seattleschild.com/directories/?category=summer-camps-and-classes-near-seattle">Summer Camps and Classes</a></li>
+	<li id="menu-item-23300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23300"><a href="https://www.seattleschild.com/directories/?category=enrichment-school-year&#038;sub-category=&#038;zipcode=&#038;keyword=">Enrichment School-Year</a></li>
+	<li id="menu-item-23302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23302"><a href="https://www.seattleschild.com/directories/?category=shop-kids&#038;sub-category=&#038;zipcode=&#038;keyword=">Shops &#038; Services</a></li>
+</ul>
+</li>
+<li id="menu-item-12941" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12941"><a href="https://www.seattleschild.com/category/parenting/">Parenting <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-14372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14372"><a href="https://www.seattleschild.com/category/parenting/health/baby/">Baby</a></li>
+	<li id="menu-item-15984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15984"><a href="https://www.seattleschild.com/category/parenting/health/">Health</a></li>
+	<li id="menu-item-17535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17535"><a href="https://www.seattleschild.com/category/parenting/special-needs/">Special Needs</a></li>
+</ul>
+</li>
+<li id="menu-item-12945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12945"><a href="https://www.seattleschild.com/category/making-home/">Making Home <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-15743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15743"><a href="https://www.seattleschild.com/category/making-home/feeding-the-family/">Feeding the Family</a></li>
+</ul>
+</li>
+<li id="menu-item-13272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13272"><a href="https://www.seattleschild.com/category/education/">Education</a></li>
+<li id="menu-item-11752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11752"><a href="https://www.seattleschild.com/category/pitch-in/">Pitch In <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-26988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26988"><a href="https://www.seattleschild.com/category/opinion-2/amplified/">Amplified</a></li>
+</ul>
+</li>
+<li id="menu-item-11758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11758"><a href="https://www.seattleschild.com/category/shop-local/">Shop Local <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-25069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25069"><a href="https://www.seattleschild.com/category/shop-local/giveaways/">Giveaways</a></li>
+</ul>
+</li>
+<li id="menu-item-23298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-23298"><a href="https://www.seattleschild.com/category/news/">News <i class="fa fa-angle-right"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-15746" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15746"><a href="https://www.seattleschild.com/category/community/">Community</a></li>
+</ul>
+</li>
+</ul></div>		</div>
+		<div class="nav-drawer-menu secondary">
+			<div class="menu-footer-container"><ul id="secondary-menu" class="navmenu-list-item sidebar-footer-menu"><li id="menu-item-21260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21260"><a href="https://www.seattleschild.com/event-submission/">Event Submission</a></li>
+<li id="menu-item-25545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25545"><a href="https://www.seattleschild.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-11814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11814"><a href="https://www.seattleschild.com/about-us/">About</a></li>
+<li id="menu-item-11815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11815"><a href="https://www.seattleschild.com/advertise/">Advertise</a></li>
+<li id="menu-item-14370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14370"><a href="https://www.seattleschild.com/jobs/">Freelance Writing</a></li>
+<li id="menu-item-25067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25067"><a href="https://www.seattleschild.com/category/shop-local/giveaways/">Giveaways</a></li>
+<li id="menu-item-28674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28674"><a href="https://www.seattleschild.com/https-www-seattleschild-com-seattles-child-is-hiring/">Jobs</a></li>
+</ul></div>		</div>
+		<div class="nav-drawer-search">
+			<span class="search-icon search-btn"><i class="fa fa-search"></i></span>
+		</div>
+		<div class="nav-drawer-social">
+			<a href="https://www.seattleschild.com/subscribe/" class="subscribe-btn">Subscribe</a>
+			<div class="social-media-area">
+				<a href='https://www.facebook.com/SeattlesChild/' target='_blank'><i class='fa fa-facebook' aria-hidden='true'></i></a><a href='https://www.instagram.com/seattleschildmag/' target='_blank'><i class='fa fa-instagram' aria-hidden='true'></i></a><a href='https://twitter.com/SeaChildMag' target='_blank'><i class='fa fa-twitter' aria-hidden='true'></i></a><a href='https://www.pinterest.com/seattleschild/' target='_blank'><i class='fa fa-pinterest' aria-hidden='true'></i></a>			</div>
+		</div>
+	</div>
+</div>
+	<!--.nav-drawer -->
+	<!-- La Noticia header below ad  -->
+			<section class="ad-section top-add-section d-print-none">
+	<div class="container">
+		<div class="row">
+			<div class="es-ad text-center mb-35 col-12">
+				<section id="bs_zones-3" class="ads-widget bs_zones"><div><broadstreet-zone zone-id="89304" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div></section>			</div>
+		</div>
+	</div>
+</section>
+		<!-- ******************* The Navbar Area ******************* -->
+	<div id="wrapper-navbar" class="wrapper-navbar" itemscope itemtype="http://schema.org/WebSite">
+
+		<a class="skip-link sr-only sr-only-focusable" href="#content">Skip to content</a>
+		<div id="main-header" class="header-top-section">
+			<div class="container">
+				<div class="header-btn-area d-print-none">
+					<button class="hamburger-btn">
+						<span class="hamburger-icon"></span>
+					</button>
+					<!-- Search icon -->
+					<span class="search-icon search-btn"><i class="fa fa-search"></i></span>
+				</div>
+				<div class="header-logo-area">
+					<a href="https://www.seattleschild.com/" class="navbar-brand custom-logo-link" rel="home"><img width="455" height="64" src="https://www.seattleschild.com/wp-content/uploads/2020/05/seattles-logo.svg" class="img-fluid" alt="Seattle&#039;s Child" /></a>					<p class="logo-text">Your guide to a kid-friendly city</p>
+				</div>
+
+				<!-- Your site title as branding in the menu -->
+				<div class="header-social-area d-print-none">
+					<a href="https://www.seattleschild.com/subscribe/" class="subscribe-btn">Subscribe</a>
+					<div class="social-media-area">
+						<a href='https://www.facebook.com/SeattlesChild/' target='_blank'><i class='fa fa-facebook' aria-hidden='true'></i></a><a href='https://www.instagram.com/seattleschildmag/' target='_blank'><i class='fa fa-instagram' aria-hidden='true'></i></a><a href='https://twitter.com/SeaChildMag' target='_blank'><i class='fa fa-twitter' aria-hidden='true'></i></a><a href='https://www.pinterest.com/seattleschild/' target='_blank'><i class='fa fa-pinterest' aria-hidden='true'></i></a>					</div>
+				</div>
+
+			</div><!-- .container -->
+		</div>
+		<nav id="main-nav" class="navbar navbar-expand-md d-print-none">
+			<div class="container">
+				<div id="navbarNavDropdown" class="header-navbar-area collapse navbar-collapse navbar-responsive-collapse"><ul id="main-menu" class="nav navbar-nav"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14117"><a href="https://www.seattleschild.com/category/things-to-do/">Things to Do</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21257"><a href="https://www.seattleschild.com/calendar/">Events Calendar</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14149"><a href="https://www.seattleschild.com/category/things-to-do/outdoor-fun/">Outdoor Fun</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14152"><a href="https://www.seattleschild.com/category/things-to-do/travel/">Travel</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15745"><a href="https://www.seattleschild.com/category/things-to-do/eat/eating-out-with-kids/">Eating out With Kids</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950"><a href="https://www.seattleschild.com/download-seattles-child-app/">Download Seattle&#8217;s Child App</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23875"><a href="https://www.seattleschild.com/directories/?category=summer-camps-and-classes-near-seattle">Camps</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27458"><a href="https://www.seattleschild.com/camps/?category=summer-camps-and-classes-near-seattle&#038;sub-category=&#038;zipcode=&#038;keyword=">Summer Camps</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14311"><a href="https://www.seattleschild.com/directories/">Directories</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23299"><a href="https://www.seattleschild.com/directories/?category=preschools-childcare&#038;sub-category=&#038;zipcode=&#038;keyword=">Preschools &#038; Child Care</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23301"><a href="https://www.seattleschild.com/directories/?category=education-schools-learning-support&#038;sub-category=&#038;zipcode=&#038;keyword=">Schools K &#8211; 12</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23296"><a href="https://www.seattleschild.com/directories/?category=summer-camps-and-classes-near-seattle">Summer Camps and Classes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23300"><a href="https://www.seattleschild.com/directories/?category=enrichment-school-year&#038;sub-category=&#038;zipcode=&#038;keyword=">Enrichment School-Year</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23302"><a href="https://www.seattleschild.com/directories/?category=shop-kids&#038;sub-category=&#038;zipcode=&#038;keyword=">Shops &#038; Services</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12941"><a href="https://www.seattleschild.com/category/parenting/">Parenting</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14372"><a href="https://www.seattleschild.com/category/parenting/health/baby/">Baby</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15984"><a href="https://www.seattleschild.com/category/parenting/health/">Health</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17535"><a href="https://www.seattleschild.com/category/parenting/special-needs/">Special Needs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12945"><a href="https://www.seattleschild.com/category/making-home/">Making Home</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15743"><a href="https://www.seattleschild.com/category/making-home/feeding-the-family/">Feeding the Family</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13272"><a href="https://www.seattleschild.com/category/education/">Education</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11752"><a href="https://www.seattleschild.com/category/pitch-in/">Pitch In</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26988"><a href="https://www.seattleschild.com/category/opinion-2/amplified/">Amplified</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11758"><a href="https://www.seattleschild.com/category/shop-local/">Shop Local</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25069"><a href="https://www.seattleschild.com/category/shop-local/giveaways/">Giveaways</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-23298"><a href="https://www.seattleschild.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15746"><a href="https://www.seattleschild.com/category/community/">Community</a></li>
+</ul>
+</li>
+</ul></div>			</div>
+		</nav><!-- .site-navigation -->
+	</div><!-- #wrapper-navbar end -->
+
+	<div class="wrapper single-wrapper" id="single-wrapper">
+        <main class="site-main" id="main">
+							<div class="container">
+					<div class="row">
+						<div class="col-lg-8 content-area mobile-mb">
+							<div class="single-content-area">
+	<article class="post-5293 post type-post status-publish format-standard has-post-thumbnail hentry category-outdoor-fun category-parks-beaches category-things-to-do tag-discovery-park tag-green-lake tag-parks tag-playground tag-seattle-parks tag-seward-park tag-volunteer-park" id="post-5293">
+								<div class="post-thumbnail with-caption">
+				<img width="1200" height="800" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/04/DiscoveryPark-family-biking-e1619120751425.jpg" class="attachment-full-list-thumb size-full-list-thumb wp-post-image" alt="best Seattle parks for kids" loading="lazy" />					<p class="img-caption">Discovery Park has trails, beaches and an Environmental Learning Center. (Photo by Discovery Park staff)												</div>
+				<header class="entry-header">
+							<div class="post-category">
+					<a href="https://www.seattleschild.com/category/things-to-do/outdoor-fun/parks-beaches/">
+						Parks &amp; Beaches					</a>
+				</div>
+							<h1 class="entry-title">10 of the best Seattle-area parks for kids</h1>			<h3 class="entry-subtitle">Whether you're looking for a challenging hike, a walk in the woods or an awesome playground, here's where to go.</h3>			<div class="entry-meta">
+						<div class="post-meta">
+			<p class="byline">By AnnaLise Bender-Brown</p>					<div class="posted-on">
+			<p class="entry-date published">Published <span>July 2021</span></p><p class="updated">Updated <span>July 25, 2021</span></p>		</div>
+				</div>
+					</div>
+
+		</header>
+		<div class="entry-content">
+			<div class="social-share">
+	<ul class="list-inline">
+		<li>
+			<a href="http://twitter.com/share?url=https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/&text=10 of the best Seattle-area parks for kids&via" target="_blank"><i
+					class="fa fa-twitter"></i></a>
+		</li>
+		<li>
+			<a href="http://www.facebook.com/sharer.php?u=https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/&[title]=10 of the best Seattle-area parks for kids" target="_blank"><i
+					class="fa fa-facebook"></i></a>
+		</li>
+<!--		<li>-->
+<!--			<a href="--><!--" target="_blank"><i-->
+<!--					class="fa fa-linkedin"></i></a>-->
+<!--		</li>-->
+
+        <li>
+            <a href="https://pinterest.com/pin/create/button?url=https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/&media=https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/04/DiscoveryPark-family-biking-e1619120751425.jpg&description=10 of the best Seattle-area parks for kids" data-pin-shape="round" target="_blank"><i
+                        class="fa fa-pinterest"></i></a>
+        </li>
+		<li>
+			<a href="https://www.printfriendly.com" class="printfriendly" onclick="window.print(); return false;"><i
+					class="fa fa-print"></i></a>
+		</li>
+		<li>
+			<a href="mailto:?subject=I thought you might be interested in this article&body=Check out this site https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/ "><i class="fa fa-envelope-o"></i></a>
+		</li>
+		<li>
+			<a href="#" class="copy-url-btn" data-url="https://www.seattleschild.com/10-of-the-best-seattle-area-parks-for-kids/"><i class="fa fa-link"></i></a>
+		</li>
+	</ul>
+</div>
+			<p dir="ltr">Best Seattle parks for kids: Seattle is chock-full of gorgeous parks with something for every family. Whether you&#8217;re looking for a challenging hike, a long walk in the woods, or a field to run on, we&#8217;ve picked the 10 best parks around Seattle to explore.</p>
+
+<p dir="ltr"><a href="http://www.seattle.gov/parks/find/parks/discovery-park"><strong>Discovery Park</strong></a></p>
+
+<p dir="ltr">Discovery Park’s lush green spaces and winding, easy paths are a welcome oasis in the middle of Magnolia. It&#8217;s more of a trek down stairs and trails to reach the saltwater beach, but it&#8217;s worth it for the mountain views alone. The park has a loop path that winds through the forest as well as open spaces where kids can play and look out on the Sound. The kid-friendly Environmental Learning Center also has fantastic resources those curious about the plants and animals of the park.</p>
+
+<address dir="ltr">3801 Discovery Park Blvd, Seattle</address>
+
+<div style='margin:5px auto; margin-bottom: 15px;' id='zone_load_1922520576'><broadstreet-zone place="0" callback="zone_load_1922520576" zone-id="89659" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div><script>window.zone_load_1922520576 = function(z, d) { if (!d.count) document.getElementById('zone_load_1922520576').style.display = 'none'; };</script>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/carkeek-park"><strong>Carkeek Park</strong></a></p>
+
+<p dir="ltr">Carkeek: come for the playground, stay for the views. The salmon slide at Carkeek will occupy your kids while you admire the stunning Olympics from the shoreline. Climb up the stairs to the pedestrian overpass and take in the spectacular mountain sights while train cars pass beneath your feet.</p>
+
+<address dir="ltr">950 NW Carkeek Park Rd, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/seward-park"><strong>Seward Park</strong></a></p><div class='newsletter-subscribe-area'><div class='newsletter-text'><p>For more family friendly things to do, news, events and travel, sign up for Seattle's Child newsletters</p></div><div class='newsletter-btn-area'><button type='button' class='newsletter-btn popup-newsletter popmake-14254' >Sign Up</button></div></div>
+
+<p dir="ltr">Seward is another gem on the shores of Lake Washington. With its 300 acres of forest and green space, you might spot an eagle if you’re lucky. The park is home to an <a href="http://sewardpark.audubon.org/">Audubon Center</a> where classes and camps are held year-round, including wildlife education classes and nature-focused book clubs.</p>
+
+<address dir="ltr">5895 Lake Washington Blvd S, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/volunteer-park"><strong>Volunteer Park</strong></a></p>
+
+<p dir="ltr">The largest park in Capitol Hill, Volunteer Park is a Seattle institution. In addition to a big playground and wading pool, the park boasts a rotund water tower whose 100 steps you can climb to reach the highest point in Capitol Hill. When you’ve reached the top, take in the gorgeous 360° view of downtown and the Eastside. Also in the park are the <a href="http://www.seattleartmuseum.org/visit/asian-art-museum">Asian Art Museum</a> and the <a href="https://volunteerparkconservatory.org/">Volunteer Park Conservatory</a> ($4 for adults, $2 for teens 13-17, free for kids under 12), which showcases an amazing array of plants and flowers.</p>
+
+<address dir="ltr">1247 15th Ave E, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/green-lake-park"><strong>Green Lake</strong></a></p>
+
+<p dir="ltr">Although it’s a summer standout, Green Lake also shines during the rainier months. With a 2.8 mile loop path for wheels and feet; ample green spaces to play on; a full playground; basketball, tennis, and volleyball courts; an indoor gym; and a superb wading pool in summer, Green Lake’s got it all.</p>
+
+<address dir="ltr">7201 E Greenlake Dr N, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/meridian-playground"><strong>Meridian Playground</strong></a></p>
+
+<p dir="ltr">Meridian is a smaller park with a large grassy field, a playground, and a Seattle Tilth-operated P-Patch. Though it’s a significantly tinier park, Meridian is charming and lush, with an apple orchard amid the playfield.</p>
+
+<address dir="ltr">4649 Sunnyside Ave N, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/lakeridge-park"><strong>Lakeridge Park</strong></a></p>
+
+<p dir="ltr">Seattle Parks and Rec describes Lakeridge Park as an “urban oasis of forest and running water,” and that’s no overstatement. Lakeridge’s walking trails meander alongside its Taylor Creek and provide a cool respite from the bustle of the city.</p>
+
+<address dir="ltr">10201 Holyoke Way S, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/golden-gardens-park"><strong>Golden Gardens</strong></a></p>
+
+<p dir="ltr">Though it’s generally understood to mean the far-west Ballard shorefront, Golden Gardens also has a park nestled next to the beach. The park has an ultra-modern playground with a cool rope structure where kids can practice climbing skills, as well as wetlands that let little ones get up close and personal with nature.</p>
+
+<address dir="ltr">8498 Seaview Pl NW, Seattle</address>
+
+<p dir="ltr"><a href="https://www.seattle.gov/parks/find/parks/fauntleroy-park"><strong>Fauntleroy Park</strong></a></p>
+
+<p dir="ltr">Fauntleroy is a decidedly green space, with its woods mostly undisturbed and left in their natural state. Fauntleroy’s creek was made a salmon run in 1991 and has been a home for them ever since.</p>
+
+<address dir="ltr">3951 SW Barton St, Seattle</address>
+
+
+<p dir="ltr"><a href="https://parks.state.wa.us/577/Saint-Edward"><strong>St. Edward State Park </strong></a><strong>(outside Seattle but worth the trip)</strong></p>
+
+<p dir="ltr">St. Edward State Park, hugging the banks of Lake Washington, has over 300 acres of land. It has also got arguably one of the coolest playgrounds around: an all-wood play structure with slides, turrets and tunnels. If you’re looking for a laid-back day walk, you’ll find picnic tables and peaceful walking paths; for a more active day, the park allows boating, swimming and water-skiing. Since it&#8217;s a state park, you&#8217;ll need a <a href="http://www.discoverpass.wa.gov/133/Where-to-Buy">Discover Pass</a> for parking ($10 daily, $30 yearly). [ <a href="https://www.seattleschild.com/washington-state-parks-free-days-2021/">State parks free days in 2021</a> ]</p>
+
+<address>14445 Juanita Dr NE, Kenmore</address>
+
+
+<p><em>Editor&#8217;s note: Originally published 2016; updated April 2021</em></p>
+
+<h3></h3>
+
+<h3>More of the best Seattle parks for kids:</h3>
+
+<p><a href="https://www.seattleschild.com/seattle-neighborhood-parks-where-your-kids-can-play-for-hours/">9 neighborhood parks where your kids can play for hours</a></p>
+
+<p><a href="https://www.seattleschild.com/5-kid-friendly-seattle-area-garden-parks-to-explore/">5 kid-friendly garden parks to explore</a></p>
+
+<p><a href="https://www.seattleschild.com/room-to-roam-10-great-seattle-parks-for-social-distancing/">10 Seattle parks that are great for social distancing</a></p>
+		</div>
+	</article>
+</div>
+
+
+
+							<div class="everstrap-next-post-nav" data-id="10500" data-count="1"></div>						</div>
+						<div class="col-lg-4 site-right-sidebar">
+
+	<div id="secondary" class="widget-area">
+		<aside id="text-2" class="widget widget_text"><h3 class="widget-title">Current Issue</h3>			<div class="textwidget">	<div class="issue-box-widget">
+		<div class="issue-img">
+				<a href="https://issuu.com/seattleschild/docs/seattleschild_july-august2021_thegetoutthereissue">
+					<img width="300" height="390" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-300x390.jpg" class="attachment-issue-sidebar-thumb size-issue-sidebar-thumb" alt="" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-300x390.jpg 300w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-231x300.jpg 231w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-789x1024.jpg 789w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-768x997.jpg 768w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-1183x1536.jpg 1183w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER-395x515.jpg 395w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/SC_July-August2021_Page01_COVER.jpg 1206w" sizes="(max-width: 300px) 100vw, 300px" />
+				</a>
+				<a href=" https://www.seattleschild.com/subscribe/" class="subscribe-btn">Subscribe to the magazine</a>
+			</div>		<div class="issue-text">
+			<a href="https://www.seattleschild.com/newsletter/">Newsletters</a>
+			<a href="https://www.seattleschild.com/issue-archive/">Past issues</a>
+			<a href="https://www.seattleschild.com/download-seattles-child-app/">Download our App</a>
+			<a href="https://www.seattleschild.com/find-us/">Find Us</a>
+		</div>
+	</div>
+
+	
+</div>
+		</aside><aside id="bs_zones-6" class="widget bs_zones"><div><broadstreet-zone zone-id="89307" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div></aside><aside id="text-4" class="widget widget_text"><h3 class="widget-title">TOP STORIES</h3>			<div class="textwidget">		<div class="top_stories-widget">
+					<article class="top-stories" >
+				<div class="post-thumbnail">
+					<img width="105" height="105" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-105x105.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Campgrounds: Curlew Lake, one of several Washington State Parks with first-come first-served sites" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-300x300.jpg 300w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/CurlewLake-266x266.jpg 266w" sizes="(max-width: 105px) 100vw, 105px" />				</div>
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://www.seattleschild.com/no-reservation-no-problem-heres-where-to-get-a-last-minute-campsite/" > No reservation? No problem. Here&#8217;s where to get a last-minute campsite </a></h2>
+				</header><!-- .entry-header -->
+			</article>
+						<article class="top-stories" >
+				<div class="post-thumbnail">
+					<img width="105" height="105" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-105x105.jpeg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Berry picking" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-105x105.jpeg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-150x150.jpeg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-225x225.jpeg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-263x263.jpeg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-195x195.jpeg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-24x24.jpeg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-48x48.jpeg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-96x96.jpeg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/1A24E34F-9497-4C6E-BE63-327FC59B3542-300x300.jpeg 300w" sizes="(max-width: 105px) 100vw, 105px" />				</div>
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://www.seattleschild.com/pick-your-own-strawberries-guide-to-u-picks-around-seattle/" > Berry season: 9 Seattle-area U-pick berry farms to check out </a></h2>
+				</header><!-- .entry-header -->
+			</article>
+						<article class="top-stories" >
+				<div class="post-thumbnail">
+					<img width="105" height="105" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-105x105.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/humblepie-300x300.jpg 300w" sizes="(max-width: 105px) 100vw, 105px" />				</div>
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://www.seattleschild.com/15-seattle-area-restaurants-with-great-patios/" > 15  family-friendly restaurants with outdoor dining </a></h2>
+				</header><!-- .entry-header -->
+			</article>
+						<article class="top-stories" >
+				<div class="post-thumbnail">
+					<img width="105" height="105" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-105x105.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="short hikes" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-300x300.jpg 300w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/22393811290_18d2a5bf59_o-266x266.jpg 266w" sizes="(max-width: 105px) 100vw, 105px" />				</div>
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://www.seattleschild.com/6-short-hikes-for-short-legs/" > 6 short hikes for short legs </a></h2>
+				</header><!-- .entry-header -->
+			</article>
+						<article class="top-stories" >
+				<div class="post-thumbnail">
+					<img width="105" height="105" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-105x105.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="mini golf Seattle" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-300x300.jpg 300w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/05/minigolf-e1616601012666-266x266.jpg 266w" sizes="(max-width: 105px) 100vw, 105px" />				</div>
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://www.seattleschild.com/8-sweet-mini-golf-courses/" > Best places to play mini golf with kids around Seattle </a></h2>
+				</header><!-- .entry-header -->
+			</article>
+						<article class="top-stories" >
+				<div class="post-thumbnail">
+					<img width="105" height="105" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-105x105.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="farms and petting zoos" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Farm11-300x300.jpg 300w" sizes="(max-width: 105px) 100vw, 105px" />				</div>
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://www.seattleschild.com/7-best-family-farms-and-petting-zoos-around-seattle/" > Best family farms and petting zoos around Seattle </a></h2>
+				</header><!-- .entry-header -->
+			</article>
+				</div>
+		
+</div>
+		</aside><aside id="bs_zones-7" class="widget bs_zones"><div><broadstreet-zone zone-id="89308" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div></aside><aside id="ecp_widget-4" class="widget widget_ecp_widget"><div class="header-calendar-search-wrapper">
+	<div class="container">
+		<div class="row event-divider">
+			<div class="col-12">
+				<h2 class="text-center text-uppercase calendar-header" style="font-weight: 700;">
+					<a href="https://www.seattleschild.com/calendar/" style="color: #000;">
+						search our Calendar
+					</a>
+				</h2>
+			</div>
+			<div class="col-12 text-center align-self-center">
+														<div class="sponosred-area">
+							<span class="sponosred-title">Sponsored By</span>
+															<a href="https://www.seattleaquarium.org" target="_blank">
+									<span class="sponosred-logo"><img width="143" height="30" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/11/Seattle-Aquarium-Logo-620x130-1-143x30.png" class="attachment-sponsored-logo-thumb size-sponsored-logo-thumb" alt="" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/11/Seattle-Aquarium-Logo-620x130-1-143x30.png 143w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/11/Seattle-Aquarium-Logo-620x130-1-300x63.png 300w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/11/Seattle-Aquarium-Logo-620x130-1.png 620w" sizes="(max-width: 143px) 100vw, 143px" /></span>
+								</a>
+													</div>
+								</div>
+		</div>
+	</div>
+</div>    <div class="everstrap-ecp-calendar">
+		<div class="ecp-widget-event-list">	
+<!--	<h4 class="text-center">No Events Found</h4>-->
+</div>
+
+<div class="claendar-parent ecp-calendar" style="height: 410px;">
+	<div id="calendar"></div>
+</div>
+<div class="header-calendar-search-wrapper mt-4">
+    <div class="ecp-calendar-filter">
+        <form action="https://www.seattleschild.com/calendar/" method="get">
+            <div class="form-group">
+                <input type="search" name="search_keyword" placeholder="Search for..."
+                       value="">
+                <i class="fa fa-search"></i>
+            </div>
+            <div class="form-group ecp-submit">
+                <input type="submit" class="btn btn-sucess btn-block search-event" value="Search">
+            </div>
+        </form>
+    </div>
+    <div class="ecp-calendar-buttons clearfix">
+        <a href="https://www.seattleschild.com/event-submission/" class="btn btn-default event-btn">Post</a>
+        <a href="https://www.seattleschild.com/calendar/" class="btn btn-default event-btn">View</a>
+    </div>
+</div>
+    </div>
+</aside><aside id="bs_zones-8" class="widget bs_zones"><div><broadstreet-zone zone-id="89307" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div></aside><aside id="text-33" class="widget widget_text"><h3 class="widget-title">School Profiles</h3>			<div class="textwidget"><p><a href="https://www.seattleschild.com/private-school-profiles-seattle-puget-sound-region/"><img loading="lazy" class="aligncenter wp-image-16491 size-medium" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-300x300.jpg" alt="" width="300" height="300" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-300x300.jpg 300w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles-266x266.jpg 266w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/09/SC_HP-Sponsored-Content_School-Profiles.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+</div>
+		</aside><aside id="bs_zones-9" class="widget bs_zones"><div><broadstreet-zone zone-id="89307" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div></aside><aside id="bs_zones-23" class="widget bs_zones"><div><broadstreet-zone zone-id="89307" keywords="not_home_page,not_landing_page,is_article_page,outdoor-fun,things-to-do,parks-beaches,outdoor-fun,things-to-do,10-of-the-best-seattle-area-parks-for-kids,post" soft-keywords="true" zone-alias=""></broadstreet-zone></div></aside>	</div>
+
+</div><!-- #secondary -->
+					</div>
+
+				</div>
+				        <div class="container">
+		        <div class="row">
+			        <div class="col-md-12">
+				        
+	<section class="related-post-section clearfix">
+		<div class=" section-title">
+			<h3>Related Stories</h3>
+		</div>
+		<div class="container">
+
+			<div class="row flex-wrap">
+
+				<div class="col-md-3">
+<article class="related-layout post-26985 post type-post status-publish format-standard has-post-thumbnail hentry category-outdoor-fun category-playgrounds category-things-to-do tag-outdoor-play tag-playground tag-seattle-parks tag-seattle-playgrounds" id="post-26985">
+
+			<div class="post-thumbnail">
+			<a href="https://www.seattleschild.com/11-seattle-playgrounds-for-preschoolers/">
+				<img width="263" height="263" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-263x263.jpeg" class="attachment-related-thumb size-related-thumb wp-post-image" alt="Highland park" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-263x263.jpeg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-150x150.jpeg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-225x225.jpeg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-195x195.jpeg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-105x105.jpeg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-24x24.jpeg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-48x48.jpeg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-96x96.jpeg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/C0E5DDA1-F2DE-4D24-B9A2-FD94D7023111-300x300.jpeg 300w" sizes="(max-width: 263px) 100vw, 263px" />			</a>
+		</div>
+		<header class="entry-header">
+						<div class="post-category">
+					<a href="https://www.seattleschild.com/category/things-to-do/outdoor-fun/playgrounds/">
+						Playgrounds					</a>
+				</div>
+				<h2 class="entry-title"><a href="https://www.seattleschild.com/11-seattle-playgrounds-for-preschoolers/" rel="bookmark">11 Seattle-area playgrounds for the under-5 crowd</a></h2>	</header><!-- .entry-header -->
+
+</article><!-- #post-## -->
+</div><div class="col-md-3">
+<article class="related-layout post-10577 post type-post status-publish format-standard has-post-thumbnail hentry category-holidays-things-to-do category-theater-dance category-things-to-do category-uncategorized tag-arts-entertainment" id="post-10577">
+
+			<div class="post-thumbnail">
+			<a href="https://www.seattleschild.com/audition-alert-snowflake-lane-2021-heres-how-to-try-out-for-the-bellevue-holiday-spectacular/">
+				<img width="263" height="263" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-263x263.jpg" class="attachment-related-thumb size-related-thumb wp-post-image" alt="Snowflake Lane auditions" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2020/05/Snowflake-300x300.jpg 300w" sizes="(max-width: 263px) 100vw, 263px" />			</a>
+		</div>
+		<header class="entry-header">
+						<div class="post-category">
+					<a href="https://www.seattleschild.com/category/things-to-do/indoor-fun/theater-dance/">
+						Theater &amp; Dance					</a>
+				</div>
+				<h2 class="entry-title"><a href="https://www.seattleschild.com/audition-alert-snowflake-lane-2021-heres-how-to-try-out-for-the-bellevue-holiday-spectacular/" rel="bookmark">Snowflake Lane 2021: How to audition for the Bellevue holiday spectacular</a></h2>	</header><!-- .entry-header -->
+
+</article><!-- #post-## -->
+</div><div class="col-md-3">
+<article class="related-layout post-4315 post type-post status-publish format-standard has-post-thumbnail hentry category-day-trips category-outdoor-fun category-parks-beaches category-things-to-do tag-computers-internet" id="post-4315">
+
+			<div class="post-thumbnail">
+			<a href="https://www.seattleschild.com/everetts-lovely-jetty-island-is-just-a-ferry-ride-away/">
+				<img width="263" height="263" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-263x263.jpg" class="attachment-related-thumb size-related-thumb wp-post-image" alt="Jetty Island" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2015/07/Jetty-2-300x300.jpg 300w" sizes="(max-width: 263px) 100vw, 263px" />			</a>
+		</div>
+		<header class="entry-header">
+						<div class="post-category">
+					<a href="https://www.seattleschild.com/category/things-to-do/outdoor-fun/parks-beaches/">
+						Parks &amp; Beaches					</a>
+				</div>
+				<h2 class="entry-title"><a href="https://www.seattleschild.com/everetts-lovely-jetty-island-is-just-a-ferry-ride-away/" rel="bookmark">Everett&#8217;s lovely Jetty Island is just a ferry ride away</a></h2>	</header><!-- .entry-header -->
+
+</article><!-- #post-## -->
+</div><div class="col-md-3">
+<article class="related-layout post-27264 post type-post status-publish format-standard has-post-thumbnail hentry category-explore category-outdoor-fun issues-july-august-2021" id="post-27264">
+
+			<div class="post-thumbnail">
+			<a href="https://www.seattleschild.com/50-ideas-for-outdoor-fun-all-summer-long/">
+				<img width="263" height="263" src="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-263x263.jpg" class="attachment-related-thumb size-related-thumb wp-post-image" alt="" loading="lazy" srcset="https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-263x263.jpg 263w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-150x150.jpg 150w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-225x225.jpg 225w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-195x195.jpg 195w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-105x105.jpg 105w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-24x24.jpg 24w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-48x48.jpg 48w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-96x96.jpg 96w, https://d1urgxgdb4lky3.cloudfront.net/wp-content/uploads/2021/06/Beacon-Hill-Scrabble-JHP_4969-copy-300x300.jpg 300w" sizes="(max-width: 263px) 100vw, 263px" />			</a>
+		</div>
+		<header class="entry-header">
+						<div class="post-category">
+					<a href="https://www.seattleschild.com/category/things-to-do/outdoor-fun/">
+						Outdoor Fun					</a>
+				</div>
+				<h2 class="entry-title"><a href="https://www.seattleschild.com/50-ideas-for-outdoor-fun-all-summer-long/" rel="bookmark">50 ideas for outdoor fun all summer long</a></h2>	</header><!-- .entry-header -->
+
+</article><!-- #post-## -->
+</div>
+			</div>
+		</div>
+	</section>
+
+			        </div>
+		        </div>
+	        </div>
+
+        </main><!-- #main -->
+
+    </div><!-- #single-wrapper -->
+
+	<div class="wrapper footer-area d-print-none" id="wrapper-footer">
+
+		<div class="container">
+			<div class="row flex-wrap">
+				<div class="col-md-4 col-sm-12 footer-info-area">
+					<div class="footer-intro">
+						<div class="footer-logo-area">
+							<a href="https://www.seattleschild.com/" class="navbar-brand custom-logo-link" rel="home"><img width="455" height="64" src="https://www.seattleschild.com/wp-content/uploads/2020/05/seattles-logo.svg" class="img-fluid" alt="Seattle&#039;s Child" /></a>							<span class="search-icon search-btn"><i class="fa fa-search"></i></span>
+						</div>
+						<div class="footer-social">
+							<a href="https://www.seattleschild.com/subscribe/" class="subscribe-btn">Subscribe</a>
+							<div class="social-media-area">
+								<a href='https://www.facebook.com/SeattlesChild/' target='_blank'><i class='fa fa-facebook' aria-hidden='true'></i></a><a href='https://www.instagram.com/seattleschildmag/' target='_blank'><i class='fa fa-instagram' aria-hidden='true'></i></a><a href='https://twitter.com/SeaChildMag' target='_blank'><i class='fa fa-twitter' aria-hidden='true'></i></a><a href='https://www.pinterest.com/seattleschild/' target='_blank'><i class='fa fa-pinterest' aria-hidden='true'></i></a>							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-8 col-sm-12 footer-nav-area">
+					<div class="footer-nav navbar-expand-md">
+						<div id="navbarNavDropdown" class="navbar-collapse footer-menu"><ul id="footer-menu" class="nav navbar-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21260"><a href="https://www.seattleschild.com/event-submission/">Event Submission</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25545"><a href="https://www.seattleschild.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11814"><a href="https://www.seattleschild.com/about-us/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11815"><a href="https://www.seattleschild.com/advertise/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14370"><a href="https://www.seattleschild.com/jobs/">Freelance Writing</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25067"><a href="https://www.seattleschild.com/category/shop-local/giveaways/">Giveaways</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28674"><a href="https://www.seattleschild.com/https-www-seattleschild-com-seattles-child-is-hiring/">Jobs</a></li>
+</ul></div>					</div>
+				</div>
+
+
+			</div>
+			<div class="row">
+
+				<div class="col-md-12">
+
+					<div class="site-footer-buttom" id="colophon">
+
+						<div class="site-info text-center">
+
+							<p class="site-info-text">Copyright 2021 <a href="https://www.seattleschild.com/">Seattle&#039;s Child</a>. All Rights reserved.<span class="sep"> </span>Website by <a href="https://webpublisherpro.com/" class="website-by" target="_blank">Web Publisher PRO</a></p>
+						</div><!-- .site-info -->
+
+					</div><!-- #colophon -->
+
+				</div><!--col end -->
+
+			</div><!-- row end -->
+
+		</div><!-- container end -->
+
+	</div><!-- wrapper end -->
+
+</div><!-- #page we need this extra closing tag here -->
+
+<script data-cfasync='false'>window.broadstreetKeywords = ['not_home_page','not_landing_page','is_article_page','outdoor-fun','things-to-do','parks-beaches','outdoor-fun','things-to-do','10-of-the-best-seattle-area-parks-for-kids','post']</script>
+<script data-cfasync='false'>window.broadstreetTargets = {"pagetype":["post","not_home_page"],"category":["outdoor-fun","things-to-do","parks-beaches","outdoor-fun","things-to-do","10-of-the-best-seattle-area-parks-for-kids","post"],"url":"10-of-the-best-seattle-area-parks-for-kids"};</script>
+<script data-cfasync='false'>
+window.broadstreet = window.broadstreet || { run: [] };window.broadstreet.run.push(function () {
+window.broadstreet.loadNetworkJS(6961);
+ });</script><!-- /134510212/seattleschild_popup -->
+<div id='div-gpt-ad-1602786865067-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602786865067-0'); });
+  </script>
+</div><div id="pum-14254" class="pum pum-overlay pum-theme-14249 pum-theme-lightbox popmake-overlay click_open" data-popmake="{&quot;id&quot;:14254,&quot;slug&quot;:&quot;popup-newsletter-in-article&quot;,&quot;theme_id&quot;:14249,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;popup-newsletter&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;30&quot;,&quot;path&quot;:true}},{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-14254&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:&quot;1&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;.popmake-14254&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:true,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;tiny&quot;,&quot;responsive_min_width&quot;:&quot;%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;300px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;10&quot;,&quot;position_right&quot;:&quot;10&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;bottom&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-14254" class="pum-container popmake theme-14249 pum-responsive pum-responsive-tiny responsive size-tiny">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<p style="text-align: center; margin-bottom: 0;"><img loading="lazy" class="size-medium wp-image-13605 aligncenter" src="https://www.seattleschild.com/wp-content/uploads/2020/05/seattles-logo-1.svg" alt="" width="300" height="300" srcset="https://www.seattleschild.com/wp-content/uploads//2020/05/seattles-logo-1.svg 150w, https://www.seattleschild.com/wp-content/uploads//2020/05/seattles-logo-1.svg 300w, https://www.seattleschild.com/wp-content/uploads//2020/05/seattles-logo-1.svg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><br />
+<span class="popup-divider">///////////////////////////////////////////////////////</span></p>
+<p class="popup-description" style="text-align: center;">Sign up for Seattle’s Child newsletters, sent right to your inbox!</p>
+<p style="text-align: center;"><script type="text/javascript"></script>
+                <div class='gf_browser_safari gf_browser_iphone gform_wrapper popup-newsletter_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_4' ><div id='gf_4' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_4' id='gform_4' class='popup-newsletter gform_legacy_markup' action='/10-of-the-best-seattle-area-parks-for-kids/#gf_4' > 
+ <input type='hidden' class='gforms-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' />
+                        <div class='gform_body gform-body'><ul id='gform_fields_4' class='gform_fields top_label form_sublabel_below description_below'><li id="field_4_1" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_4_1' >Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_4_1' type='text' value='' class='medium'   placeholder='Email Address'  aria-invalid="false"  />
+                        </div></li><li id="field_4_2" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_4_2' >Zip</label><div class='ginput_container ginput_container_text'><input name='input_2' id='input_4_2' type='text' value='' class='medium'    placeholder='Zip Code'  aria-invalid="false"   /> </div></li><li id="field_4_3" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_4_3' >CAPTCHA</label><div id='input_4_3' class='ginput_container ginput_recaptcha' data-sitekey='6Le4ev4UAAAAAHSnVNdO4375Q9aAcR-1N65P87IE'  data-theme='light' data-tabindex='0'  data-badge=''></div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_4' class='gform_button button' value='Subscribe'  onclick='if(window["gf_submitting_4"]){return false;}  window["gf_submitting_4"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_4"]){return false;} window["gf_submitting_4"]=true;  jQuery("#gform_4").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=4&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_4' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='4' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_4' value='WyJbXSIsIjA5NGMwOGViYmZmMzA4ZjMzZTA1Y2VlYmVmZjRmNGFhIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_4' id='gform_target_page_number_4' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_4' id='gform_source_page_number_4' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_4' id='gform_ajax_frame_4' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type="text/javascript"> gform.initializeOnLoaded( function() {gformInitSpinner( 4, 'https://www.seattleschild.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_4').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_4').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_4').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner( 4, 'https://www.seattleschild.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_4').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_4').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_4').text());}, 50);}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [4, current_page]);} );} ); </script></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			&times;            </button>
+		
+	</div>
+
+</div>
+
+		<script type="text/html" id="tmpl-media-frame">
+		<div class="media-frame-title" id="media-frame-title"></div>
+		<h2 class="media-frame-menu-heading">Actions</h2>
+		<button type="button" class="button button-link media-frame-menu-toggle" aria-expanded="false">
+			Menu			<span class="dashicons dashicons-arrow-down" aria-hidden="true"></span>
+		</button>
+		<div class="media-frame-menu"></div>
+		<div class="media-frame-tab-panel">
+			<div class="media-frame-router"></div>
+			<div class="media-frame-content"></div>
+		</div>
+		<h2 class="media-frame-actions-heading screen-reader-text">
+		Selected media actions		</h2>
+		<div class="media-frame-toolbar"></div>
+		<div class="media-frame-uploader"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-media-modal">
+		<div tabindex="0" class="media-modal wp-core-ui" role="dialog" aria-labelledby="media-frame-title">
+			<# if ( data.hasCloseButton ) { #>
+				<button type="button" class="media-modal-close"><span class="media-modal-icon"><span class="screen-reader-text">Close dialog</span></span></button>
+			<# } #>
+			<div class="media-modal-content" role="document"></div>
+		</div>
+		<div class="media-modal-backdrop"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-window">
+		<div class="uploader-window-content">
+			<div class="uploader-editor-title">Drop files to upload</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-editor">
+		<div class="uploader-editor-content">
+			<div class="uploader-editor-title">Drop files to upload</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-inline">
+		<# var messageClass = data.message ? 'has-upload-message' : 'no-upload-message'; #>
+		<# if ( data.canClose ) { #>
+		<button class="close dashicons dashicons-no"><span class="screen-reader-text">Close uploader</span></button>
+		<# } #>
+		<div class="uploader-inline-content {{ messageClass }}">
+		<# if ( data.message ) { #>
+			<h2 class="upload-message">{{ data.message }}</h2>
+		<# } #>
+					<div class="upload-ui">
+				<h2 class="upload-instructions drop-instructions">Drop files to upload</h2>
+				<p class="upload-instructions drop-instructions">or</p>
+				<button type="button" class="browser button button-hero">Select Files</button>
+			</div>
+
+			<div class="upload-inline-status"></div>
+
+			<div class="post-upload-ui">
+				
+				<p class="max-upload-size">
+				Maximum upload file size: 40 MB.				</p>
+
+				<# if ( data.suggestedWidth && data.suggestedHeight ) { #>
+					<p class="suggested-dimensions">
+						Suggested image dimensions: {{data.suggestedWidth}} by {{data.suggestedHeight}} pixels.					</p>
+				<# } #>
+
+							</div>
+				</div>
+	</script>
+
+		<script type="text/html" id="tmpl-media-library-view-switcher">
+		<a href="/10-of-the-best-seattle-area-parks-for-kids/?mode=list" class="view-list">
+			<span class="screen-reader-text">List view</span>
+		</a>
+		<a href="/10-of-the-best-seattle-area-parks-for-kids/?mode=grid" class="view-grid current" aria-current="page">
+			<span class="screen-reader-text">Grid view</span>
+		</a>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-status">
+		<h2>Uploading</h2>
+		<button type="button" class="button-link upload-dismiss-errors"><span class="screen-reader-text">Dismiss Errors</span></button>
+
+		<div class="media-progress-bar"><div></div></div>
+		<div class="upload-details">
+			<span class="upload-count">
+				<span class="upload-index"></span> / <span class="upload-total"></span>
+			</span>
+			<span class="upload-detail-separator">&ndash;</span>
+			<span class="upload-filename"></span>
+		</div>
+		<div class="upload-errors"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-status-error">
+		<span class="upload-error-filename">{{{ data.filename }}}</span>
+		<span class="upload-error-message">{{ data.message }}</span>
+	</script>
+
+		<script type="text/html" id="tmpl-edit-attachment-frame">
+		<div class="edit-media-header">
+			<button class="left dashicons"<# if ( ! data.hasPrevious ) { #> disabled<# } #>><span class="screen-reader-text">Edit previous media item</span></button>
+			<button class="right dashicons"<# if ( ! data.hasNext ) { #> disabled<# } #>><span class="screen-reader-text">Edit next media item</span></button>
+			<button type="button" class="media-modal-close"><span class="media-modal-icon"><span class="screen-reader-text">Close dialog</span></span></button>
+		</div>
+		<div class="media-frame-title"></div>
+		<div class="media-frame-content"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment-details-two-column">
+		<div class="attachment-media-view {{ data.orientation }}">
+			<h2 class="screen-reader-text">Attachment Preview</h2>
+			<div class="thumbnail thumbnail-{{ data.type }}">
+				<# if ( data.uploading ) { #>
+					<div class="media-progress-bar"><div></div></div>
+				<# } else if ( data.sizes && data.sizes.large ) { #>
+					<img class="details-image" src="{{ data.sizes.large.url }}" draggable="false" alt="" />
+				<# } else if ( data.sizes && data.sizes.full ) { #>
+					<img class="details-image" src="{{ data.sizes.full.url }}" draggable="false" alt="" />
+				<# } else if ( -1 === jQuery.inArray( data.type, [ 'audio', 'video' ] ) ) { #>
+					<img class="details-image icon" src="{{ data.icon }}" draggable="false" alt="" />
+				<# } #>
+
+				<# if ( 'audio' === data.type ) { #>
+				<div class="wp-media-wrapper">
+					<audio style="visibility: hidden" controls class="wp-audio-shortcode" width="100%" preload="none">
+						<source type="{{ data.mime }}" src="{{ data.url }}"/>
+					</audio>
+				</div>
+				<# } else if ( 'video' === data.type ) {
+					var w_rule = '';
+					if ( data.width ) {
+						w_rule = 'width: ' + data.width + 'px;';
+					} else if ( wp.media.view.settings.contentWidth ) {
+						w_rule = 'width: ' + wp.media.view.settings.contentWidth + 'px;';
+					}
+				#>
+				<div style="{{ w_rule }}" class="wp-media-wrapper wp-video">
+					<video controls="controls" class="wp-video-shortcode" preload="metadata"
+						<# if ( data.width ) { #>width="{{ data.width }}"<# } #>
+						<# if ( data.height ) { #>height="{{ data.height }}"<# } #>
+						<# if ( data.image && data.image.src !== data.icon ) { #>poster="{{ data.image.src }}"<# } #>>
+						<source type="{{ data.mime }}" src="{{ data.url }}"/>
+					</video>
+				</div>
+				<# } #>
+
+				<div class="attachment-actions">
+					<# if ( 'image' === data.type && ! data.uploading && data.sizes && data.can.save ) { #>
+					<button type="button" class="button edit-attachment">Edit Image</button>
+					<# } else if ( 'pdf' === data.subtype && data.sizes ) { #>
+					<p>Document Preview</p>
+					<# } #>
+				</div>
+			</div>
+		</div>
+		<div class="attachment-info">
+			<span class="settings-save-status" role="status">
+				<span class="spinner"></span>
+				<span class="saved">Saved.</span>
+			</span>
+			<div class="details">
+				<h2 class="screen-reader-text">Details</h2>
+				<div class="filename"><strong>File name:</strong> {{ data.filename }}</div>
+				<div class="filename"><strong>File type:</strong> {{ data.mime }}</div>
+				<div class="uploaded"><strong>Uploaded on:</strong> {{ data.dateFormatted }}</div>
+
+				<div class="file-size"><strong>File size:</strong> {{ data.filesizeHumanReadable }}</div>
+				<# if ( 'image' === data.type && ! data.uploading ) { #>
+					<# if ( data.width && data.height ) { #>
+						<div class="dimensions"><strong>Dimensions:</strong>
+							{{ data.width }} by {{ data.height }} pixels						</div>
+					<# } #>
+
+					<# if ( data.originalImageURL && data.originalImageName ) { #>
+						Original image:						<a href="{{ data.originalImageURL }}">{{data.originalImageName}}</a>
+					<# } #>
+				<# } #>
+
+				<# if ( data.fileLength && data.fileLengthHumanReadable ) { #>
+					<div class="file-length"><strong>Length:</strong>
+						<span aria-hidden="true">{{ data.fileLength }}</span>
+						<span class="screen-reader-text">{{ data.fileLengthHumanReadable }}</span>
+					</div>
+				<# } #>
+
+				<# if ( 'audio' === data.type && data.meta.bitrate ) { #>
+					<div class="bitrate">
+						<strong>Bitrate:</strong> {{ Math.round( data.meta.bitrate / 1000 ) }}kb/s
+						<# if ( data.meta.bitrate_mode ) { #>
+						{{ ' ' + data.meta.bitrate_mode.toUpperCase() }}
+						<# } #>
+					</div>
+				<# } #>
+
+				<div class="compat-meta">
+					<# if ( data.compat && data.compat.meta ) { #>
+						{{{ data.compat.meta }}}
+					<# } #>
+				</div>
+			</div>
+
+			<div class="settings">
+				<# var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly'; #>
+				<# if ( 'image' === data.type ) { #>
+					<span class="setting has-description" data-setting="alt">
+						<label for="attachment-details-two-column-alt-text" class="name">Alternative Text</label>
+						<input type="text" id="attachment-details-two-column-alt-text" value="{{ data.alt }}" aria-describedby="alt-text-description" {{ maybeReadOnly }} />
+					</span>
+					<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+				<# } #>
+								<span class="setting" data-setting="title">
+					<label for="attachment-details-two-column-title" class="name">Title</label>
+					<input type="text" id="attachment-details-two-column-title" value="{{ data.title }}" {{ maybeReadOnly }} />
+				</span>
+								<# if ( 'audio' === data.type ) { #>
+								<span class="setting" data-setting="artist">
+					<label for="attachment-details-two-column-artist" class="name">Artist</label>
+					<input type="text" id="attachment-details-two-column-artist" value="{{ data.artist || data.meta.artist || '' }}" />
+				</span>
+								<span class="setting" data-setting="album">
+					<label for="attachment-details-two-column-album" class="name">Album</label>
+					<input type="text" id="attachment-details-two-column-album" value="{{ data.album || data.meta.album || '' }}" />
+				</span>
+								<# } #>
+				<span class="setting" data-setting="caption">
+					<label for="attachment-details-two-column-caption" class="name">Caption</label>
+					<textarea id="attachment-details-two-column-caption" {{ maybeReadOnly }}>{{ data.caption }}</textarea>
+				</span>
+				<span class="setting" data-setting="description">
+					<label for="attachment-details-two-column-description" class="name">Description</label>
+					<textarea id="attachment-details-two-column-description" {{ maybeReadOnly }}>{{ data.description }}</textarea>
+				</span>
+				<span class="setting">
+					<span class="name">Uploaded By</span>
+					<span class="value">{{ data.authorName }}</span>
+				</span>
+				<# if ( data.uploadedToTitle ) { #>
+					<span class="setting">
+						<span class="name">Uploaded To</span>
+						<# if ( data.uploadedToLink ) { #>
+							<span class="value"><a href="{{ data.uploadedToLink }}">{{ data.uploadedToTitle }}</a></span>
+						<# } else { #>
+							<span class="value">{{ data.uploadedToTitle }}</span>
+						<# } #>
+					</span>
+				<# } #>
+				<span class="setting" data-setting="url">
+					<label for="attachment-details-two-column-copy-link" class="name">File URL:</label>
+					<input type="text" class="attachment-details-copy-link" id="attachment-details-two-column-copy-link" value="{{ data.url }}" readonly />
+					<span class="copy-to-clipboard-container">
+						<button type="button" class="button button-small copy-attachment-url" data-clipboard-target="#attachment-details-two-column-copy-link">Copy URL</button>
+						<span class="success hidden" aria-hidden="true">Copied!</span>
+					</span>
+				</span>
+				<div class="attachment-compat"></div>
+			</div>
+
+			<div class="actions">
+				<a class="view-attachment" href="{{ data.link }}">View attachment page</a>
+				<# if ( data.can.save ) { #> |
+					<a href="{{ data.editLink }}">Edit more details</a>
+				<# } #>
+				<# if ( ! data.uploading && data.can.remove ) { #> |
+											<button type="button" class="button-link delete-attachment">Delete permanently</button>
+									<# } #>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment">
+		<div class="attachment-preview js--select-attachment type-{{ data.type }} subtype-{{ data.subtype }} {{ data.orientation }}">
+			<div class="thumbnail">
+				<# if ( data.uploading ) { #>
+					<div class="media-progress-bar"><div style="width: {{ data.percent }}%"></div></div>
+				<# } else if ( 'image' === data.type && data.sizes ) { #>
+					<div class="centered">
+						<img src="{{ data.size.url }}" draggable="false" alt="" />
+					</div>
+				<# } else { #>
+					<div class="centered">
+						<# if ( data.image && data.image.src && data.image.src !== data.icon ) { #>
+							<img src="{{ data.image.src }}" class="thumbnail" draggable="false" alt="" />
+						<# } else if ( data.sizes && data.sizes.medium ) { #>
+							<img src="{{ data.sizes.medium.url }}" class="thumbnail" draggable="false" alt="" />
+						<# } else { #>
+							<img src="{{ data.icon }}" class="icon" draggable="false" alt="" />
+						<# } #>
+					</div>
+					<div class="filename">
+						<div>{{ data.filename }}</div>
+					</div>
+				<# } #>
+			</div>
+			<# if ( data.buttons.close ) { #>
+				<button type="button" class="button-link attachment-close media-modal-icon"><span class="screen-reader-text">Remove</span></button>
+			<# } #>
+		</div>
+		<# if ( data.buttons.check ) { #>
+			<button type="button" class="check" tabindex="-1"><span class="media-modal-icon"></span><span class="screen-reader-text">Deselect</span></button>
+		<# } #>
+		<#
+		var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly';
+		if ( data.describe ) {
+			if ( 'image' === data.type ) { #>
+				<input type="text" value="{{ data.caption }}" class="describe" data-setting="caption"
+					aria-label="Caption"
+					placeholder="Caption&hellip;" {{ maybeReadOnly }} />
+			<# } else { #>
+				<input type="text" value="{{ data.title }}" class="describe" data-setting="title"
+					<# if ( 'video' === data.type ) { #>
+						aria-label="Video title"
+						placeholder="Video title&hellip;"
+					<# } else if ( 'audio' === data.type ) { #>
+						aria-label="Audio title"
+						placeholder="Audio title&hellip;"
+					<# } else { #>
+						aria-label="Media title"
+						placeholder="Media title&hellip;"
+					<# } #> {{ maybeReadOnly }} />
+			<# }
+		} #>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment-details">
+		<h2>
+			Attachment Details			<span class="settings-save-status" role="status">
+				<span class="spinner"></span>
+				<span class="saved">Saved.</span>
+			</span>
+		</h2>
+		<div class="attachment-info">
+			<div class="thumbnail thumbnail-{{ data.type }}">
+				<# if ( data.uploading ) { #>
+					<div class="media-progress-bar"><div></div></div>
+				<# } else if ( 'image' === data.type && data.sizes ) { #>
+					<img src="{{ data.size.url }}" draggable="false" alt="" />
+				<# } else { #>
+					<img src="{{ data.icon }}" class="icon" draggable="false" alt="" />
+				<# } #>
+			</div>
+			<div class="details">
+				<div class="filename">{{ data.filename }}</div>
+				<div class="uploaded">{{ data.dateFormatted }}</div>
+
+				<div class="file-size">{{ data.filesizeHumanReadable }}</div>
+				<# if ( 'image' === data.type && ! data.uploading ) { #>
+					<# if ( data.width && data.height ) { #>
+						<div class="dimensions">
+							{{ data.width }} by {{ data.height }} pixels						</div>
+					<# } #>
+
+					<# if ( data.originalImageURL && data.originalImageName ) { #>
+						Original image:						<a href="{{ data.originalImageURL }}">{{data.originalImageName}}</a>
+					<# } #>
+
+					<# if ( data.can.save && data.sizes ) { #>
+						<a class="edit-attachment" href="{{ data.editLink }}&amp;image-editor" target="_blank">Edit Image</a>
+					<# } #>
+				<# } #>
+
+				<# if ( data.fileLength && data.fileLengthHumanReadable ) { #>
+					<div class="file-length">Length:						<span aria-hidden="true">{{ data.fileLength }}</span>
+						<span class="screen-reader-text">{{ data.fileLengthHumanReadable }}</span>
+					</div>
+				<# } #>
+
+				<# if ( ! data.uploading && data.can.remove ) { #>
+											<button type="button" class="button-link delete-attachment">Delete permanently</button>
+									<# } #>
+
+				<div class="compat-meta">
+					<# if ( data.compat && data.compat.meta ) { #>
+						{{{ data.compat.meta }}}
+					<# } #>
+				</div>
+			</div>
+		</div>
+		<# var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly'; #>
+		<# if ( 'image' === data.type ) { #>
+			<span class="setting has-description" data-setting="alt">
+				<label for="attachment-details-alt-text" class="name">Alt Text</label>
+				<input type="text" id="attachment-details-alt-text" value="{{ data.alt }}" aria-describedby="alt-text-description" {{ maybeReadOnly }} />
+			</span>
+			<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+		<# } #>
+				<span class="setting" data-setting="title">
+			<label for="attachment-details-title" class="name">Title</label>
+			<input type="text" id="attachment-details-title" value="{{ data.title }}" {{ maybeReadOnly }} />
+		</span>
+				<# if ( 'audio' === data.type ) { #>
+				<span class="setting" data-setting="artist">
+			<label for="attachment-details-artist" class="name">Artist</label>
+			<input type="text" id="attachment-details-artist" value="{{ data.artist || data.meta.artist || '' }}" />
+		</span>
+				<span class="setting" data-setting="album">
+			<label for="attachment-details-album" class="name">Album</label>
+			<input type="text" id="attachment-details-album" value="{{ data.album || data.meta.album || '' }}" />
+		</span>
+				<# } #>
+		<span class="setting" data-setting="caption">
+			<label for="attachment-details-caption" class="name">Caption</label>
+			<textarea id="attachment-details-caption" {{ maybeReadOnly }}>{{ data.caption }}</textarea>
+		</span>
+		<span class="setting" data-setting="description">
+			<label for="attachment-details-description" class="name">Description</label>
+			<textarea id="attachment-details-description" {{ maybeReadOnly }}>{{ data.description }}</textarea>
+		</span>
+		<span class="setting" data-setting="url">
+			<label for="attachment-details-copy-link" class="name">File URL:</label>
+			<input type="text" class="attachment-details-copy-link" id="attachment-details-copy-link" value="{{ data.url }}" readonly />
+			<div class="copy-to-clipboard-container">
+				<button type="button" class="button button-small copy-attachment-url" data-clipboard-target="#attachment-details-copy-link">Copy URL</button>
+				<span class="success hidden" aria-hidden="true">Copied!</span>
+			</div>
+		</span>
+	</script>
+
+		<script type="text/html" id="tmpl-media-selection">
+		<div class="selection-info">
+			<span class="count"></span>
+			<# if ( data.editable ) { #>
+				<button type="button" class="button-link edit-selection">Edit Selection</button>
+			<# } #>
+			<# if ( data.clearable ) { #>
+				<button type="button" class="button-link clear-selection">Clear</button>
+			<# } #>
+		</div>
+		<div class="selection-view"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment-display-settings">
+		<h2>Attachment Display Settings</h2>
+
+		<# if ( 'image' === data.type ) { #>
+			<span class="setting align">
+				<label for="attachment-display-settings-alignment" class="name">Alignment</label>
+				<select id="attachment-display-settings-alignment" class="alignment"
+					data-setting="align"
+					<# if ( data.userSettings ) { #>
+						data-user-setting="align"
+					<# } #>>
+
+					<option value="left">
+						Left					</option>
+					<option value="center">
+						Center					</option>
+					<option value="right">
+						Right					</option>
+					<option value="none" selected>
+						None					</option>
+				</select>
+			</span>
+		<# } #>
+
+		<span class="setting">
+			<label for="attachment-display-settings-link-to" class="name">
+				<# if ( data.model.canEmbed ) { #>
+					Embed or Link				<# } else { #>
+					Link To				<# } #>
+			</label>
+			<select id="attachment-display-settings-link-to" class="link-to"
+				data-setting="link"
+				<# if ( data.userSettings && ! data.model.canEmbed ) { #>
+					data-user-setting="urlbutton"
+				<# } #>>
+
+			<# if ( data.model.canEmbed ) { #>
+				<option value="embed" selected>
+					Embed Media Player				</option>
+				<option value="file">
+			<# } else { #>
+				<option value="none" selected>
+					None				</option>
+				<option value="file">
+			<# } #>
+				<# if ( data.model.canEmbed ) { #>
+					Link to Media File				<# } else { #>
+					Media File				<# } #>
+				</option>
+				<option value="post">
+				<# if ( data.model.canEmbed ) { #>
+					Link to Attachment Page				<# } else { #>
+					Attachment Page				<# } #>
+				</option>
+			<# if ( 'image' === data.type ) { #>
+				<option value="custom">
+					Custom URL				</option>
+			<# } #>
+			</select>
+		</span>
+		<span class="setting">
+			<label for="attachment-display-settings-link-to-custom" class="name">URL</label>
+			<input type="text" id="attachment-display-settings-link-to-custom" class="link-to-custom" data-setting="linkUrl" />
+		</span>
+
+		<# if ( 'undefined' !== typeof data.sizes ) { #>
+			<span class="setting">
+				<label for="attachment-display-settings-size" class="name">Size</label>
+				<select id="attachment-display-settings-size" class="size" name="size"
+					data-setting="size"
+					<# if ( data.userSettings ) { #>
+						data-user-setting="imgsize"
+					<# } #>>
+											<#
+						var size = data.sizes['thumbnail'];
+						if ( size ) { #>
+							<option value="thumbnail" >
+								Thumbnail &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['medium'];
+						if ( size ) { #>
+							<option value="medium" >
+								Medium &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['large'];
+						if ( size ) { #>
+							<option value="large" >
+								Large &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['full'];
+						if ( size ) { #>
+							<option value="full"  selected='selected'>
+								Full Size &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['bs-biz-size'];
+						if ( size ) { #>
+							<option value="bs-biz-size" >
+								Broadstreet Business &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+									</select>
+			</span>
+		<# } #>
+	</script>
+
+		<script type="text/html" id="tmpl-gallery-settings">
+		<h2>Gallery Settings</h2>
+
+		<span class="setting">
+			<label for="gallery-settings-link-to" class="name">Link To</label>
+			<select id="gallery-settings-link-to" class="link-to"
+				data-setting="link"
+				<# if ( data.userSettings ) { #>
+					data-user-setting="urlbutton"
+				<# } #>>
+
+				<option value="post" <# if ( ! wp.media.galleryDefaults.link || 'post' === wp.media.galleryDefaults.link ) {
+					#>selected="selected"<# }
+				#>>
+					Attachment Page				</option>
+				<option value="file" <# if ( 'file' === wp.media.galleryDefaults.link ) { #>selected="selected"<# } #>>
+					Media File				</option>
+				<option value="none" <# if ( 'none' === wp.media.galleryDefaults.link ) { #>selected="selected"<# } #>>
+					None				</option>
+			</select>
+		</span>
+
+		<span class="setting">
+			<label for="gallery-settings-columns" class="name select-label-inline">Columns</label>
+			<select id="gallery-settings-columns" class="columns" name="columns"
+				data-setting="columns">
+									<option value="1" <#
+						if ( 1 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						1					</option>
+									<option value="2" <#
+						if ( 2 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						2					</option>
+									<option value="3" <#
+						if ( 3 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						3					</option>
+									<option value="4" <#
+						if ( 4 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						4					</option>
+									<option value="5" <#
+						if ( 5 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						5					</option>
+									<option value="6" <#
+						if ( 6 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						6					</option>
+									<option value="7" <#
+						if ( 7 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						7					</option>
+									<option value="8" <#
+						if ( 8 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						8					</option>
+									<option value="9" <#
+						if ( 9 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						9					</option>
+							</select>
+		</span>
+
+		<span class="setting">
+			<input type="checkbox" id="gallery-settings-random-order" data-setting="_orderbyRandom" />
+			<label for="gallery-settings-random-order" class="checkbox-label-inline">Random Order</label>
+		</span>
+
+		<span class="setting size">
+			<label for="gallery-settings-size" class="name">Size</label>
+			<select id="gallery-settings-size" class="size" name="size"
+				data-setting="size"
+				<# if ( data.userSettings ) { #>
+					data-user-setting="imgsize"
+				<# } #>
+				>
+									<option value="thumbnail">
+						Thumbnail					</option>
+									<option value="medium">
+						Medium					</option>
+									<option value="large">
+						Large					</option>
+									<option value="full">
+						Full Size					</option>
+									<option value="bs-biz-size">
+						Broadstreet Business					</option>
+							</select>
+		</span>
+	</script>
+
+		<script type="text/html" id="tmpl-playlist-settings">
+		<h2>Playlist Settings</h2>
+
+		<# var emptyModel = _.isEmpty( data.model ),
+			isVideo = 'video' === data.controller.get('library').props.get('type'); #>
+
+		<span class="setting">
+			<input type="checkbox" id="playlist-settings-show-list" data-setting="tracklist" <# if ( emptyModel ) { #>
+				checked="checked"
+			<# } #> />
+			<label for="playlist-settings-show-list" class="checkbox-label-inline">
+				<# if ( isVideo ) { #>
+				Show Video List				<# } else { #>
+				Show Tracklist				<# } #>
+			</label>
+		</span>
+
+		<# if ( ! isVideo ) { #>
+		<span class="setting">
+			<input type="checkbox" id="playlist-settings-show-artist" data-setting="artists" <# if ( emptyModel ) { #>
+				checked="checked"
+			<# } #> />
+			<label for="playlist-settings-show-artist" class="checkbox-label-inline">
+				Show Artist Name in Tracklist			</label>
+		</span>
+		<# } #>
+
+		<span class="setting">
+			<input type="checkbox" id="playlist-settings-show-images" data-setting="images" <# if ( emptyModel ) { #>
+				checked="checked"
+			<# } #> />
+			<label for="playlist-settings-show-images" class="checkbox-label-inline">
+				Show Images			</label>
+		</span>
+	</script>
+
+		<script type="text/html" id="tmpl-embed-link-settings">
+		<span class="setting link-text">
+			<label for="embed-link-settings-link-text" class="name">Link Text</label>
+			<input type="text" id="embed-link-settings-link-text" class="alignment" data-setting="linkText" />
+		</span>
+		<div class="embed-container" style="display: none;">
+			<div class="embed-preview"></div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-embed-image-settings">
+		<div class="wp-clearfix">
+			<div class="thumbnail">
+				<img src="{{ data.model.url }}" draggable="false" alt="" />
+			</div>
+		</div>
+
+		<span class="setting alt-text has-description">
+			<label for="embed-image-settings-alt-text" class="name">Alternative Text</label>
+			<input type="text" id="embed-image-settings-alt-text" data-setting="alt" aria-describedby="alt-text-description" />
+		</span>
+		<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+
+					<span class="setting caption">
+				<label for="embed-image-settings-caption" class="name">Caption</label>
+				<textarea id="embed-image-settings-caption" data-setting="caption" />
+			</span>
+		
+		<fieldset class="setting-group">
+			<legend class="name">Align</legend>
+			<span class="setting align">
+				<span class="button-group button-large" data-setting="align">
+					<button class="button" value="left">
+						Left					</button>
+					<button class="button" value="center">
+						Center					</button>
+					<button class="button" value="right">
+						Right					</button>
+					<button class="button active" value="none">
+						None					</button>
+				</span>
+			</span>
+		</fieldset>
+
+		<fieldset class="setting-group">
+			<legend class="name">Link To</legend>
+			<span class="setting link-to">
+				<span class="button-group button-large" data-setting="link">
+					<button class="button" value="file">
+						Image URL					</button>
+					<button class="button" value="custom">
+						Custom URL					</button>
+					<button class="button active" value="none">
+						None					</button>
+				</span>
+			</span>
+			<span class="setting">
+				<label for="embed-image-settings-link-to-custom" class="name">URL</label>
+				<input type="text" id="embed-image-settings-link-to-custom" class="link-to-custom" data-setting="linkUrl" />
+			</span>
+		</fieldset>
+	</script>
+
+		<script type="text/html" id="tmpl-image-details">
+		<div class="media-embed">
+			<div class="embed-media-settings">
+				<div class="column-settings">
+					<span class="setting alt-text has-description">
+						<label for="image-details-alt-text" class="name">Alternative Text</label>
+						<input type="text" id="image-details-alt-text" data-setting="alt" value="{{ data.model.alt }}" aria-describedby="alt-text-description" />
+					</span>
+					<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+
+											<span class="setting caption">
+							<label for="image-details-caption" class="name">Caption</label>
+							<textarea id="image-details-caption" data-setting="caption">{{ data.model.caption }}</textarea>
+						</span>
+					
+					<h2>Display Settings</h2>
+					<fieldset class="setting-group">
+						<legend class="legend-inline">Align</legend>
+						<span class="setting align">
+							<span class="button-group button-large" data-setting="align">
+								<button class="button" value="left">
+									Left								</button>
+								<button class="button" value="center">
+									Center								</button>
+								<button class="button" value="right">
+									Right								</button>
+								<button class="button active" value="none">
+									None								</button>
+							</span>
+						</span>
+					</fieldset>
+
+					<# if ( data.attachment ) { #>
+						<# if ( 'undefined' !== typeof data.attachment.sizes ) { #>
+							<span class="setting size">
+								<label for="image-details-size" class="name">Size</label>
+								<select id="image-details-size" class="size" name="size"
+									data-setting="size"
+									<# if ( data.userSettings ) { #>
+										data-user-setting="imgsize"
+									<# } #>>
+																			<#
+										var size = data.sizes['thumbnail'];
+										if ( size ) { #>
+											<option value="thumbnail">
+												Thumbnail &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['medium'];
+										if ( size ) { #>
+											<option value="medium">
+												Medium &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['large'];
+										if ( size ) { #>
+											<option value="large">
+												Large &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['full'];
+										if ( size ) { #>
+											<option value="full">
+												Full Size &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['bs-biz-size'];
+										if ( size ) { #>
+											<option value="bs-biz-size">
+												Broadstreet Business &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																		<option value="custom">
+										Custom Size									</option>
+								</select>
+							</span>
+						<# } #>
+							<div class="custom-size wp-clearfix<# if ( data.model.size !== 'custom' ) { #> hidden<# } #>">
+								<span class="custom-size-setting">
+									<label for="image-details-size-width">Width</label>
+									<input type="number" id="image-details-size-width" aria-describedby="image-size-desc" data-setting="customWidth" step="1" value="{{ data.model.customWidth }}" />
+								</span>
+								<span class="sep" aria-hidden="true">&times;</span>
+								<span class="custom-size-setting">
+									<label for="image-details-size-height">Height</label>
+									<input type="number" id="image-details-size-height" aria-describedby="image-size-desc" data-setting="customHeight" step="1" value="{{ data.model.customHeight }}" />
+								</span>
+								<p id="image-size-desc" class="description">Image size in pixels</p>
+							</div>
+					<# } #>
+
+					<span class="setting link-to">
+						<label for="image-details-link-to" class="name">Link To</label>
+						<select id="image-details-link-to" data-setting="link">
+						<# if ( data.attachment ) { #>
+							<option value="file">
+								Media File							</option>
+							<option value="post">
+								Attachment Page							</option>
+						<# } else { #>
+							<option value="file">
+								Image URL							</option>
+						<# } #>
+							<option value="custom">
+								Custom URL							</option>
+							<option value="none">
+								None							</option>
+						</select>
+					</span>
+					<span class="setting">
+						<label for="image-details-link-to-custom" class="name">URL</label>
+						<input type="text" id="image-details-link-to-custom" class="link-to-custom" data-setting="linkUrl" />
+					</span>
+
+					<div class="advanced-section">
+						<h2><button type="button" class="button-link advanced-toggle">Advanced Options</button></h2>
+						<div class="advanced-settings hidden">
+							<div class="advanced-image">
+								<span class="setting title-text">
+									<label for="image-details-title-attribute" class="name">Image Title Attribute</label>
+									<input type="text" id="image-details-title-attribute" data-setting="title" value="{{ data.model.title }}" />
+								</span>
+								<span class="setting extra-classes">
+									<label for="image-details-css-class" class="name">Image CSS Class</label>
+									<input type="text" id="image-details-css-class" data-setting="extraClasses" value="{{ data.model.extraClasses }}" />
+								</span>
+							</div>
+							<div class="advanced-link">
+								<span class="setting link-target">
+									<input type="checkbox" id="image-details-link-target" data-setting="linkTargetBlank" value="_blank" <# if ( data.model.linkTargetBlank ) { #>checked="checked"<# } #>>
+									<label for="image-details-link-target" class="checkbox-label">Open link in a new tab</label>
+								</span>
+								<span class="setting link-rel">
+									<label for="image-details-link-rel" class="name">Link Rel</label>
+									<input type="text" id="image-details-link-rel" data-setting="linkRel" value="{{ data.model.linkRel }}" />
+								</span>
+								<span class="setting link-class-name">
+									<label for="image-details-link-css-class" class="name">Link CSS Class</label>
+									<input type="text" id="image-details-link-css-class" data-setting="linkClassName" value="{{ data.model.linkClassName }}" />
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="column-image">
+					<div class="image">
+						<img src="{{ data.model.url }}" draggable="false" alt="" />
+						<# if ( data.attachment && window.imageEdit ) { #>
+							<div class="actions">
+								<input type="button" class="edit-attachment button" value="Edit Original" />
+								<input type="button" class="replace-attachment button" value="Replace" />
+							</div>
+						<# } #>
+					</div>
+				</div>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-image-editor">
+		<div id="media-head-{{ data.id }}"></div>
+		<div id="image-editor-{{ data.id }}"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-audio-details">
+		<# var ext, html5types = {
+			mp3: wp.media.view.settings.embedMimes.mp3,
+			ogg: wp.media.view.settings.embedMimes.ogg
+		}; #>
+
+				<div class="media-embed media-embed-details">
+			<div class="embed-media-settings embed-audio-settings">
+				<audio style="visibility: hidden"
+	controls
+	class="wp-audio-shortcode"
+	width="{{ _.isUndefined( data.model.width ) ? 400 : data.model.width }}"
+	preload="{{ _.isUndefined( data.model.preload ) ? 'none' : data.model.preload }}"
+	<#
+		if ( ! _.isUndefined( data.model.autoplay ) && data.model.autoplay ) {
+		#> autoplay<#
+	}
+		if ( ! _.isUndefined( data.model.loop ) && data.model.loop ) {
+		#> loop<#
+	}
+	#>
+>
+	<# if ( ! _.isEmpty( data.model.src ) ) { #>
+	<source src="{{ data.model.src }}" type="{{ wp.media.view.settings.embedMimes[ data.model.src.split('.').pop() ] }}" />
+	<# } #>
+
+		<# if ( ! _.isEmpty( data.model.mp3 ) ) { #>
+	<source src="{{ data.model.mp3 }}" type="{{ wp.media.view.settings.embedMimes[ 'mp3' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.ogg ) ) { #>
+	<source src="{{ data.model.ogg }}" type="{{ wp.media.view.settings.embedMimes[ 'ogg' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.flac ) ) { #>
+	<source src="{{ data.model.flac }}" type="{{ wp.media.view.settings.embedMimes[ 'flac' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.m4a ) ) { #>
+	<source src="{{ data.model.m4a }}" type="{{ wp.media.view.settings.embedMimes[ 'm4a' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.wav ) ) { #>
+	<source src="{{ data.model.wav }}" type="{{ wp.media.view.settings.embedMimes[ 'wav' ] }}" />
+	<# } #>
+		</audio>
+	
+				<# if ( ! _.isEmpty( data.model.src ) ) {
+					ext = data.model.src.split('.').pop();
+					if ( html5types[ ext ] ) {
+						delete html5types[ ext ];
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-source" class="name">URL</label>
+					<input type="text" id="audio-details-source" readonly data-setting="src" value="{{ data.model.src }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.mp3 ) ) {
+					if ( ! _.isUndefined( html5types.mp3 ) ) {
+						delete html5types.mp3;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-mp3-source" class="name">MP3</label>
+					<input type="text" id="audio-details-mp3-source" readonly data-setting="mp3" value="{{ data.model.mp3 }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.ogg ) ) {
+					if ( ! _.isUndefined( html5types.ogg ) ) {
+						delete html5types.ogg;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-ogg-source" class="name">OGG</label>
+					<input type="text" id="audio-details-ogg-source" readonly data-setting="ogg" value="{{ data.model.ogg }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.flac ) ) {
+					if ( ! _.isUndefined( html5types.flac ) ) {
+						delete html5types.flac;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-flac-source" class="name">FLAC</label>
+					<input type="text" id="audio-details-flac-source" readonly data-setting="flac" value="{{ data.model.flac }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.m4a ) ) {
+					if ( ! _.isUndefined( html5types.m4a ) ) {
+						delete html5types.m4a;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-m4a-source" class="name">M4A</label>
+					<input type="text" id="audio-details-m4a-source" readonly data-setting="m4a" value="{{ data.model.m4a }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.wav ) ) {
+					if ( ! _.isUndefined( html5types.wav ) ) {
+						delete html5types.wav;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-wav-source" class="name">WAV</label>
+					<input type="text" id="audio-details-wav-source" readonly data-setting="wav" value="{{ data.model.wav }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+				
+				<# if ( ! _.isEmpty( html5types ) ) { #>
+				<fieldset class="setting-group">
+					<legend class="name">Add alternate sources for maximum HTML5 playback</legend>
+					<span class="setting">
+						<span class="button-large">
+						<# _.each( html5types, function (mime, type) { #>
+							<button class="button add-media-source" data-mime="{{ mime }}">{{ type }}</button>
+						<# } ) #>
+						</span>
+					</span>
+				</fieldset>
+				<# } #>
+
+				<fieldset class="setting-group">
+					<legend class="name">Preload</legend>
+					<span class="setting preload">
+						<span class="button-group button-large" data-setting="preload">
+							<button class="button" value="auto">Auto</button>
+							<button class="button" value="metadata">Metadata</button>
+							<button class="button active" value="none">None</button>
+						</span>
+					</span>
+				</fieldset>
+
+				<span class="setting-group">
+					<span class="setting checkbox-setting autoplay">
+						<input type="checkbox" id="audio-details-autoplay" data-setting="autoplay" />
+						<label for="audio-details-autoplay" class="checkbox-label">Autoplay</label>
+					</span>
+
+					<span class="setting checkbox-setting">
+						<input type="checkbox" id="audio-details-loop" data-setting="loop" />
+						<label for="audio-details-loop" class="checkbox-label">Loop</label>
+					</span>
+				</span>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-video-details">
+		<# var ext, html5types = {
+			mp4: wp.media.view.settings.embedMimes.mp4,
+			ogv: wp.media.view.settings.embedMimes.ogv,
+			webm: wp.media.view.settings.embedMimes.webm
+		}; #>
+
+				<div class="media-embed media-embed-details">
+			<div class="embed-media-settings embed-video-settings">
+				<div class="wp-video-holder">
+				<#
+				var w = ! data.model.width || data.model.width > 640 ? 640 : data.model.width,
+					h = ! data.model.height ? 360 : data.model.height;
+
+				if ( data.model.width && w !== data.model.width ) {
+					h = Math.ceil( ( h * w ) / data.model.width );
+				}
+				#>
+
+				<#  var w_rule = '', classes = [],
+		w, h, settings = wp.media.view.settings,
+		isYouTube = isVimeo = false;
+
+	if ( ! _.isEmpty( data.model.src ) ) {
+		isYouTube = data.model.src.match(/youtube|youtu\.be/);
+		isVimeo = -1 !== data.model.src.indexOf('vimeo');
+	}
+
+	if ( settings.contentWidth && data.model.width >= settings.contentWidth ) {
+		w = settings.contentWidth;
+	} else {
+		w = data.model.width;
+	}
+
+	if ( w !== data.model.width ) {
+		h = Math.ceil( ( data.model.height * w ) / data.model.width );
+	} else {
+		h = data.model.height;
+	}
+
+	if ( w ) {
+		w_rule = 'width: ' + w + 'px; ';
+	}
+
+	if ( isYouTube ) {
+		classes.push( 'youtube-video' );
+	}
+
+	if ( isVimeo ) {
+		classes.push( 'vimeo-video' );
+	}
+
+#>
+<div style="{{ w_rule }}" class="wp-video">
+<video controls
+	class="wp-video-shortcode {{ classes.join( ' ' ) }}"
+	<# if ( w ) { #>width="{{ w }}"<# } #>
+	<# if ( h ) { #>height="{{ h }}"<# } #>
+			<#
+		if ( ! _.isUndefined( data.model.poster ) && data.model.poster ) {
+			#> poster="{{ data.model.poster }}"<#
+		} #>
+			preload			="{{ _.isUndefined( data.model.preload ) ? 'metadata' : data.model.preload }}"
+				<#
+		if ( ! _.isUndefined( data.model.autoplay ) && data.model.autoplay ) {
+		#> autoplay<#
+	}
+		if ( ! _.isUndefined( data.model.loop ) && data.model.loop ) {
+		#> loop<#
+	}
+	#>
+>
+	<# if ( ! _.isEmpty( data.model.src ) ) {
+		if ( isYouTube ) { #>
+		<source src="{{ data.model.src }}" type="video/youtube" />
+		<# } else if ( isVimeo ) { #>
+		<source src="{{ data.model.src }}" type="video/vimeo" />
+		<# } else { #>
+		<source src="{{ data.model.src }}" type="{{ settings.embedMimes[ data.model.src.split('.').pop() ] }}" />
+		<# }
+	} #>
+
+		<# if ( data.model.mp4 ) { #>
+	<source src="{{ data.model.mp4 }}" type="{{ settings.embedMimes[ 'mp4' ] }}" />
+	<# } #>
+		<# if ( data.model.m4v ) { #>
+	<source src="{{ data.model.m4v }}" type="{{ settings.embedMimes[ 'm4v' ] }}" />
+	<# } #>
+		<# if ( data.model.webm ) { #>
+	<source src="{{ data.model.webm }}" type="{{ settings.embedMimes[ 'webm' ] }}" />
+	<# } #>
+		<# if ( data.model.ogv ) { #>
+	<source src="{{ data.model.ogv }}" type="{{ settings.embedMimes[ 'ogv' ] }}" />
+	<# } #>
+		<# if ( data.model.flv ) { #>
+	<source src="{{ data.model.flv }}" type="{{ settings.embedMimes[ 'flv' ] }}" />
+	<# } #>
+		{{{ data.model.content }}}
+</video>
+</div>
+	
+				<# if ( ! _.isEmpty( data.model.src ) ) {
+					ext = data.model.src.split('.').pop();
+					if ( html5types[ ext ] ) {
+						delete html5types[ ext ];
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-source" class="name">URL</label>
+					<input type="text" id="video-details-source" readonly data-setting="src" value="{{ data.model.src }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.mp4 ) ) {
+					if ( ! _.isUndefined( html5types.mp4 ) ) {
+						delete html5types.mp4;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-mp4-source" class="name">MP4</label>
+					<input type="text" id="video-details-mp4-source" readonly data-setting="mp4" value="{{ data.model.mp4 }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.m4v ) ) {
+					if ( ! _.isUndefined( html5types.m4v ) ) {
+						delete html5types.m4v;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-m4v-source" class="name">M4V</label>
+					<input type="text" id="video-details-m4v-source" readonly data-setting="m4v" value="{{ data.model.m4v }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.webm ) ) {
+					if ( ! _.isUndefined( html5types.webm ) ) {
+						delete html5types.webm;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-webm-source" class="name">WEBM</label>
+					<input type="text" id="video-details-webm-source" readonly data-setting="webm" value="{{ data.model.webm }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.ogv ) ) {
+					if ( ! _.isUndefined( html5types.ogv ) ) {
+						delete html5types.ogv;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-ogv-source" class="name">OGV</label>
+					<input type="text" id="video-details-ogv-source" readonly data-setting="ogv" value="{{ data.model.ogv }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.flv ) ) {
+					if ( ! _.isUndefined( html5types.flv ) ) {
+						delete html5types.flv;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-flv-source" class="name">FLV</label>
+					<input type="text" id="video-details-flv-source" readonly data-setting="flv" value="{{ data.model.flv }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								</div>
+
+				<# if ( ! _.isEmpty( html5types ) ) { #>
+				<fieldset class="setting-group">
+					<legend class="name">Add alternate sources for maximum HTML5 playback</legend>
+					<span class="setting">
+						<span class="button-large">
+						<# _.each( html5types, function (mime, type) { #>
+							<button class="button add-media-source" data-mime="{{ mime }}">{{ type }}</button>
+						<# } ) #>
+						</span>
+					</span>
+				</fieldset>
+				<# } #>
+
+				<# if ( ! _.isEmpty( data.model.poster ) ) { #>
+				<span class="setting">
+					<label for="video-details-poster-image" class="name">Poster Image</label>
+					<input type="text" id="video-details-poster-image" readonly data-setting="poster" value="{{ data.model.poster }}" />
+					<button type="button" class="button-link remove-setting">Remove poster image</button>
+				</span>
+				<# } #>
+
+				<fieldset class="setting-group">
+					<legend class="name">Preload</legend>
+					<span class="setting preload">
+						<span class="button-group button-large" data-setting="preload">
+							<button class="button" value="auto">Auto</button>
+							<button class="button" value="metadata">Metadata</button>
+							<button class="button active" value="none">None</button>
+						</span>
+					</span>
+				</fieldset>
+
+				<span class="setting-group">
+					<span class="setting checkbox-setting autoplay">
+						<input type="checkbox" id="video-details-autoplay" data-setting="autoplay" />
+						<label for="video-details-autoplay" class="checkbox-label">Autoplay</label>
+					</span>
+
+					<span class="setting checkbox-setting">
+						<input type="checkbox" id="video-details-loop" data-setting="loop" />
+						<label for="video-details-loop" class="checkbox-label">Loop</label>
+					</span>
+				</span>
+
+				<span class="setting" data-setting="content">
+					<#
+					var content = '';
+					if ( ! _.isEmpty( data.model.content ) ) {
+						var tracks = jQuery( data.model.content ).filter( 'track' );
+						_.each( tracks.toArray(), function( track, index ) {
+							content += track.outerHTML; #>
+						<label for="video-details-track-{{ index }}" class="name">Tracks (subtitles, captions, descriptions, chapters, or metadata)</label>
+						<input class="content-track" type="text" id="video-details-track-{{ index }}" aria-describedby="video-details-track-desc-{{ index }}" value="{{ track.outerHTML }}" />
+						<span class="description" id="video-details-track-desc-{{ index }}">
+						The srclang, label, and kind values can be edited to set the video track language and kind.						</span>
+						<button type="button" class="button-link remove-setting remove-track">Remove video track</button><br/>
+						<# } ); #>
+					<# } else { #>
+					<span class="name">Tracks (subtitles, captions, descriptions, chapters, or metadata)</span><br />
+					<em>There are no associated subtitles.</em>
+					<# } #>
+					<textarea class="hidden content-setting">{{ content }}</textarea>
+				</span>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-editor-gallery">
+		<# if ( data.attachments.length ) { #>
+			<div class="gallery gallery-columns-{{ data.columns }}">
+				<# _.each( data.attachments, function( attachment, index ) { #>
+					<dl class="gallery-item">
+						<dt class="gallery-icon">
+							<# if ( attachment.thumbnail ) { #>
+								<img src="{{ attachment.thumbnail.url }}" width="{{ attachment.thumbnail.width }}" height="{{ attachment.thumbnail.height }}" alt="{{ attachment.alt }}" />
+							<# } else { #>
+								<img src="{{ attachment.url }}" alt="{{ attachment.alt }}" />
+							<# } #>
+						</dt>
+						<# if ( attachment.caption ) { #>
+							<dd class="wp-caption-text gallery-caption">
+								{{{ data.verifyHTML( attachment.caption ) }}}
+							</dd>
+						<# } #>
+					</dl>
+					<# if ( index % data.columns === data.columns - 1 ) { #>
+						<br style="clear: both;">
+					<# } #>
+				<# } ); #>
+			</div>
+		<# } else { #>
+			<div class="wpview-error">
+				<div class="dashicons dashicons-format-gallery"></div><p>No items found.</p>
+			</div>
+		<# } #>
+	</script>
+
+		<script type="text/html" id="tmpl-crop-content">
+		<img class="crop-image" src="{{ data.url }}" alt="Image crop area preview. Requires mouse interaction.">
+		<div class="upload-errors"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-site-icon-preview">
+		<h2>Preview</h2>
+		<strong aria-hidden="true">As a browser icon</strong>
+		<div class="favicon-preview">
+			<img src="https://www.seattleschild.com/wp-admin/images/browser.png" class="browser-preview" width="182" height="" alt="" />
+
+			<div class="favicon">
+				<img id="preview-favicon" src="{{ data.url }}" alt="Preview as a browser icon"/>
+			</div>
+			<span class="browser-title" aria-hidden="true"><# print( 'Seattle&#039;s Child' ) #></span>
+		</div>
+
+		<strong aria-hidden="true">As an app icon</strong>
+		<div class="app-icon-preview">
+			<img id="preview-app-icon" src="{{ data.url }}" alt="Preview as an app icon"/>
+		</div>
+	</script>
+
+	<script type="text/html" id="tmpl-pum-shortcode-view-popup">		<p class="pum-sub-form-desc">
+			Popup: ID "{{attrs.id}}" </p>
+		</script><script type="text/html" id="tmpl-pum-shortcode-view-popup_trigger">		<{{{attrs.tag}}} class="pum-trigger  popmake-{{{attrs.id}}} {{{attrs.classes}}}">{{{attrs._inner_content}}}</{{{attrs.tag}}}></script><script type="text/html" id="tmpl-pum-shortcode-view-popup_close">		<{{{attrs.tag}}} class="pum-close  popmake-close <# if (typeof attrs.classes !== 'undefined') print(attrs.classes); #>">{{{attrs._inner_content}}}</{{{attrs.tag}}}></script><script type="text/html" id="tmpl-pum-shortcode-view-popup_cookie">		<div class="pum-cookie">Popup Cookie</div></script><script type="text/html" id="tmpl-pum-shortcode-view-pum_sub_form">		<p class="pum-sub-form-desc">
+			Subscription Form Placeholder		</p>
+		</script><script type='text/javascript' src='https://www.seattleschild.com/wp-content/plugins/metronet-profile-picture/js/mpp-frontend.js?ver=2.6.0' id='mpp_gutenberg_tabs-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/shortcode.min.js?ver=5.5.5' id='shortcode-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/wp-util.min.js?ver=5.5.5' id='wp-util-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/wp-backbone.min.js?ver=5.5.5' id='wp-backbone-js'></script>
+<script type='text/javascript' id='media-models-js-extra'>
+/* <![CDATA[ */
+var _wpMediaModelsL10n = {"settings":{"ajaxurl":"\/wp-admin\/admin-ajax.php","post":{"id":0}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/media-models.min.js?ver=5.5.5' id='media-models-js'></script>
+<script type='text/javascript' id='wp-plupload-js-extra'>
+/* <![CDATA[ */
+var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload 1 file.","http_error":"Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.","http_error_image":"Post-processing of the image failed likely because the server is busy or does not have enough resources. Uploading a smaller image may help. Suggested maximum size is 2500 pixels.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File canceled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\u2026","deleted":"moved to the Trash.","error_uploading":"\u201c%s\u201d has failed to upload.","unsupported_image":"This image cannot be displayed in a web browser. For best results convert it to JPEG before uploading."};
+var _wpPluploadSettings = {"defaults":{"file_data_name":"async-upload","url":"\/wp-admin\/async-upload.php","filters":{"max_file_size":"41943040b","mime_types":[{"extensions":"jpg,jpeg,jpe,gif,png,bmp,tiff,tif,ico,heic,asf,asx,wmv,wmx,wm,avi,divx,flv,mov,qt,mpeg,mpg,mpe,mp4,m4v,ogv,webm,mkv,3gp,3gpp,3g2,3gp2,txt,asc,c,cc,h,srt,csv,tsv,ics,rtx,css,vtt,dfxp,mp3,m4a,m4b,aac,ra,ram,wav,ogg,oga,flac,mid,midi,wma,wax,mka,rtf,pdf,class,tar,zip,gz,gzip,rar,7z,psd,xcf,doc,pot,pps,ppt,wri,xla,xls,xlt,xlw,mdb,mpp,docx,docm,dotx,dotm,xlsx,xlsm,xlsb,xltx,xltm,xlam,pptx,pptm,ppsx,ppsm,potx,potm,ppam,sldx,sldm,onetoc,onetoc2,onetmp,onepkg,oxps,xps,odt,odp,ods,odg,odc,odb,odf,wp,wpd,key,numbers,pages,svg,svgz"}]},"heic_upload_error":true,"multipart_params":{"action":"upload-attachment","_wpnonce":"af92949883"}},"browser":{"mobile":true,"supported":true},"limitExceeded":false};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/plupload/wp-plupload.min.js?ver=5.5.5' id='wp-plupload-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.5.5' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.5.5' id='wp-mediaelement-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.seattleschild.com\/wp-json\/","nonce":"53819df8d8","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/api-request.min.js?ver=5.5.5' id='wp-api-request-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.seattleschild.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/dist/dom-ready.min.js?ver=ad4d8022261fd9f054a02278eda7c864' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/dist/i18n.min.js?ver=772b1b30d38ec9ba77ae8ae1a39b232a' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/dist/a11y.min.js?ver=28ae883082d3cc947b58ed059ff407a7' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/clipboard.min.js?ver=5.5.5' id='clipboard-js'></script>
+<script type='text/javascript' id='media-views-js-extra'>
+/* <![CDATA[ */
+var _wpMediaViewsL10n = {"mediaFrameDefaultTitle":"Media","url":"URL","addMedia":"Add media","search":"Search","select":"Select","cancel":"Cancel","update":"Update","replace":"Replace","remove":"Remove","back":"Back","selected":"%d selected","dragInfo":"Drag and drop to reorder media files.","uploadFilesTitle":"Upload files","uploadImagesTitle":"Upload images","mediaLibraryTitle":"Media Library","insertMediaTitle":"Add media","createNewGallery":"Create a new gallery","createNewPlaylist":"Create a new playlist","createNewVideoPlaylist":"Create a new video playlist","returnToLibrary":"\u2190 Return to library","allMediaItems":"All media items","allDates":"All dates","noItemsFound":"No items found.","insertIntoPost":"Insert into post","unattached":"Unattached","mine":"Mine","trash":"Trash","uploadedToThisPost":"Uploaded to this post","warnDelete":"You are about to permanently delete this item from your site.\nThis action cannot be undone.\n 'Cancel' to stop, 'OK' to delete.","warnBulkDelete":"You are about to permanently delete these items from your site.\nThis action cannot be undone.\n 'Cancel' to stop, 'OK' to delete.","warnBulkTrash":"You are about to trash these items.\n  'Cancel' to stop, 'OK' to delete.","bulkSelect":"Bulk select","trashSelected":"Move to Trash","restoreSelected":"Restore from Trash","deletePermanently":"Delete permanently","apply":"Apply","filterByDate":"Filter by date","filterByType":"Filter by type","searchLabel":"Search","searchMediaLabel":"Search media","searchMediaPlaceholder":"Search media items...","mediaFound":"Number of media items found: %d","mediaFoundHasMoreResults":"Number of media items displayed: %d. Scroll the page for more results.","noMedia":"No media items found.","noMediaTryNewSearch":"No media items found. Try a different search.","attachmentDetails":"Attachment details","insertFromUrlTitle":"Insert from URL","setFeaturedImageTitle":"Featured image","setFeaturedImage":"Set featured image","createGalleryTitle":"Create gallery","editGalleryTitle":"Edit gallery","cancelGalleryTitle":"\u2190 Cancel gallery","insertGallery":"Insert gallery","updateGallery":"Update gallery","addToGallery":"Add to gallery","addToGalleryTitle":"Add to gallery","reverseOrder":"Reverse order","imageDetailsTitle":"Image details","imageReplaceTitle":"Replace image","imageDetailsCancel":"Cancel edit","editImage":"Edit image","chooseImage":"Choose image","selectAndCrop":"Select and crop","skipCropping":"Skip cropping","cropImage":"Crop image","cropYourImage":"Crop your image","cropping":"Cropping\u2026","suggestedDimensions":"Suggested image dimensions: %1$s by %2$s pixels.","cropError":"There has been an error cropping your image.","audioDetailsTitle":"Audio details","audioReplaceTitle":"Replace audio","audioAddSourceTitle":"Add audio source","audioDetailsCancel":"Cancel edit","videoDetailsTitle":"Video details","videoReplaceTitle":"Replace video","videoAddSourceTitle":"Add video source","videoDetailsCancel":"Cancel edit","videoSelectPosterImageTitle":"Select poster image","videoAddTrackTitle":"Add subtitles","playlistDragInfo":"Drag and drop to reorder tracks.","createPlaylistTitle":"Create audio playlist","editPlaylistTitle":"Edit audio playlist","cancelPlaylistTitle":"\u2190 Cancel audio playlist","insertPlaylist":"Insert audio playlist","updatePlaylist":"Update audio playlist","addToPlaylist":"Add to audio playlist","addToPlaylistTitle":"Add to Audio Playlist","videoPlaylistDragInfo":"Drag and drop to reorder videos.","createVideoPlaylistTitle":"Create video playlist","editVideoPlaylistTitle":"Edit video playlist","cancelVideoPlaylistTitle":"\u2190 Cancel video playlist","insertVideoPlaylist":"Insert video playlist","updateVideoPlaylist":"Update video playlist","addToVideoPlaylist":"Add to video playlist","addToVideoPlaylistTitle":"Add to video Playlist","filterAttachments":"Filter media","attachmentsList":"Media list","settings":{"tabs":[],"tabUrl":"https:\/\/www.seattleschild.com\/wp-admin\/media-upload.php?chromeless=1","mimeTypes":{"image":"Images","audio":"Audio","video":"Video","application\/msword,application\/vnd.openxmlformats-officedocument.wordprocessingml.document,application\/vnd.ms-word.document.macroEnabled.12,application\/vnd.ms-word.template.macroEnabled.12,application\/vnd.oasis.opendocument.text,application\/vnd.apple.pages,application\/pdf,application\/vnd.ms-xpsdocument,application\/oxps,application\/rtf,application\/wordperfect,application\/octet-stream":"Documents","application\/vnd.apple.numbers,application\/vnd.oasis.opendocument.spreadsheet,application\/vnd.ms-excel,application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application\/vnd.ms-excel.sheet.macroEnabled.12,application\/vnd.ms-excel.sheet.binary.macroEnabled.12":"Spreadsheets","application\/x-gzip,application\/rar,application\/x-tar,application\/zip,application\/x-7z-compressed":"Archives"},"captions":true,"nonce":{"sendToEditor":"ee38fb42c9"},"post":{"id":0},"defaultProps":{"link":"none","align":"","size":""},"attachmentCounts":{"audio":1,"video":1},"oEmbedProxyUrl":"https:\/\/www.seattleschild.com\/wp-json\/oembed\/1.0\/proxy","embedExts":["mp3","ogg","flac","m4a","wav","mp4","m4v","webm","ogv","flv"],"embedMimes":{"mp3":"audio\/mpeg","ogg":"audio\/ogg","flac":"audio\/flac","m4a":"audio\/mpeg","wav":"audio\/wav","mp4":"video\/mp4","m4v":"video\/mp4","webm":"video\/webm","ogv":"video\/ogg","flv":"video\/x-flv"},"contentWidth":640,"months":[{"year":"2021","month":"8","text":"August 2021"},{"year":"2021","month":"7","text":"July 2021"},{"year":"2021","month":"6","text":"June 2021"},{"year":"2021","month":"5","text":"May 2021"},{"year":"2021","month":"4","text":"April 2021"},{"year":"2021","month":"3","text":"March 2021"},{"year":"2021","month":"2","text":"February 2021"},{"year":"2021","month":"1","text":"January 2021"},{"year":"2020","month":"12","text":"December 2020"},{"year":"2020","month":"11","text":"November 2020"},{"year":"2020","month":"10","text":"October 2020"},{"year":"2020","month":"9","text":"September 2020"},{"year":"2020","month":"8","text":"August 2020"},{"year":"2020","month":"7","text":"July 2020"},{"year":"2020","month":"6","text":"June 2020"},{"year":"2020","month":"5","text":"May 2020"}],"mediaTrash":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' id='media-views-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/media-views.min.js?ver=5.5.5' id='media-views-js'></script>
+<script type='text/javascript' id='media-editor-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/media-editor.min.js?ver=5.5.5' id='media-editor-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/media-audiovideo.min.js?ver=5.5.5' id='media-audiovideo-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.26.0' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/js/vendor/fullcalendar/fullcalendar.min.js?ver=1.0.5' id='fullcalendar-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/js/vendor/date-time-picker/time-picker.js?ver=1.0.5' id='timepicker-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/js/vendor/event-recurrence.js?ver=1.0.5' id='ecp-event-reccurrence-js'></script>
+<script type='text/javascript' id='event-calendar-pro-js-extra'>
+/* <![CDATA[ */
+var wpecp = {"asset_url":"https:\/\/www.seattleschild.com\/wp-content\/plugins\/event-calendar-pro\/assets","nonce":"2a6eb1e034"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/plugins/event-calendar-pro/assets/js/frontend/frontend.js?ver=1.0.5' id='event-calendar-pro-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/themes/seattles-child/assets/vendor/sumo/sumoselect.js' id='everstrap-sumoselect-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/themes/seattles-child/assets/js/bundle.js' id='everstrap-scripts-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.seattleschild.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.5.8' id='gform_placeholder-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.16.2","pm_dir_url":"https:\/\/www.seattleschild.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.seattleschild.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.seattleschild.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"14248","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/www.seattleschild.com\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.seattleschild.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-14254":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":".popmake-14254"}}],"cookies":[{"event":"on_popup_open","settings":{"name":"popup-newsletter","key":"","session":false,"time":"30","path":true}},{"event":"on_popup_close","settings":{"name":"pum-14254","key":"","session":false,"time":"1 month","path":"1"}}],"disable_on_mobile":false,"disable_on_tablet":true,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"14249","size":"tiny","responsive_min_width":"%","responsive_max_width":"%","custom_width":"300px","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"bottom","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"10","position_left":"0","position_right":"10","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":true,"close_on_form_submission_delay":"500","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":14254,"slug":"popup-newsletter-in-article"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.seattleschild.com/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1625718465&#038;ver=1.16.2' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-content/plugins/popup-maker/assets/js/vendor/mobile-detect.min.js?ver=1.3.3' id='mobile-detect-js'></script>
+<script type='text/javascript' src='https://www.seattleschild.com/wp-includes/js/wp-embed.min.js?ver=5.5.5' id='wp-embed-js'></script>
+<script type="text/javascript"> gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 4) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); </script><script type="text/javascript"> gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script>			<script type="application/javascript">
+				(function($){
+					$('.es-load-more').on('click', function (e) {
+						e.preventDefault();
+
+						var $button = $(this),
+							query = $button.data('args');
+
+						$button.text('Loading....');
+
+						wp.ajax.send('es_load_more', {
+							data: query,
+
+							success: function (res) {
+								$button.text('Load More');
+
+								if (res.posts) {
+									query.offset = res.query.offset;
+
+									//when body has video layout append inside video section otherwise appned self section
+									if( $('body').find('.es-layout-list').length > 0 ) {
+										$('.es-layout-list').append(res.posts);
+									}else {
+										$button.parent().before(res.posts);
+									}
+
+									$button.attr('data-args', query);
+								} else {
+									$button.text('No More Posts');
+								}
+							},
+							error: function (error) {
+								$button.text('No More Posts');
+							}
+						});
+
+						return false;
+					});
+
+				})(jQuery);
+			</script>
+						<script type="application/javascript">
+				window.Project = (function (window, document, $, undefined) {
+					'use strict';
+					var everstrapAjaxUrl='https://www.seattleschild.com/wp-admin/admin-ajax.php';
+
+					var app = {
+						initialize: function () {
+							app.nextPostForSingle();
+						},
+
+						nextPostForSingle: function() {
+							if ( $( 'body' ).hasClass( 'single-post' ) ) {
+								$( window ).on( 'scroll', function() {
+									var target_pos = $('.everstrap-next-post-nav').position();
+									//console.log(target_pos);
+									if( ( target_pos.top - window.scrollY - window.outerHeight ) < 100 && ! app.postCalled ) {
+										app.postCalled = true;
+										app.getSinglePostByAjax();
+									}
+								} );
+							}
+						},
+
+						getSinglePostByAjax: function() {
+							var postId = $('.everstrap-next-post-nav').data( 'id' );
+							var count = $('.everstrap-next-post-nav').data('count');
+							if ( postId === '' || postId === 0 ) {
+								return;
+							}
+
+							$.ajax( {
+								method: 'POST',
+								url: everstrapAjaxUrl,
+								data: {
+									action: 'es_get_next_post',
+									id: postId,
+									count: count
+								}
+							} ).done( function( res ) {
+							    if ( res !== '0' ) {
+                                    $(res.data.post_view).insertBefore('.everstrap-next-post-nav');
+                                    $('.everstrap-next-post-nav').data('id', res.data.next_id);
+                                    $('.everstrap-next-post-nav').data('count', res.data.next_count);
+
+                                    var theTitle = $('<div />').html(res.data.next_title).text();
+
+                                    window.history.pushState({pageTitle: theTitle}, '', res.data.next_url);
+                                    document.title = theTitle;
+                                }
+							} ).always( function() {
+								app.postCalled = false;
+							} );
+						},
+
+					};
+					$(document).ready(app.initialize);
+
+					return app;
+				})(window, document, jQuery);
+			</script>
+			
+</body>
+
+</html>
+
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
